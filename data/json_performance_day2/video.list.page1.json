@@ -1,0 +1,3934 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/4T3xJ0Xw7CDI8oaB7-2RPqCJEW0\"",
+ "pageInfo": {
+  "totalResults": 50,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/rFKrzcfUKFtuf8KkjzrYVYrfP24\"",
+   "id": "-C1ieLGok40",
+   "snippet": {
+    "publishedAt": "2014-04-01T06:53:12.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Glub Glub First Look #newtrends",
+    "description": "\"The Glub Glub Water Dance\" is already turning into a viral megahit. Get in on the dance craze yourself by uploading your own Water Dance videos. \n\nOfficial Glub Glub song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\n\nFor a sneak peek at what you'll be watching in 2014, also check out:\n\nYouTube Announces Upcoming Viral Video Trends http://goo.gl/frKCDE\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nUser-Submission: Chicken High Fives First Look http://goo.gl/XlAUC3\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nThis year, we're looking to you to submit your own viral trend ideas! Share your ideas using #newtrends and our Meme Development experts will choose their favorites and make them official YouTube trends, complete with demo videos on youtube.com/youtube. \n\nThanks to our guest stars for demonstrating the year's upcoming trends: Mark Douglas, Todd Womack, Bryan Olsen  https://www.youtube.com/user/barelypolitical\n\nBy submitting your ideas in any of these ways, you give YouTube permission to use your ideas in videos, images, and other content that may be displayed on YouTube, other Google services, or elsewhere on the Internet. This includes all of the rights we need to use your ideas, whether under copyright, patent, trademark, trade secret, or other intellectual property rights. You also agree to submit only ideas and other content for which you have all necessary licenses, rights, consents, and permissions to give us these rights.\n\nBy the way... April Fools! ;-)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "April Fools' Day (Holiday)",
+     "YouTube",
+     "2014",
+     "April Fools",
+     "April Fools Day",
+     "April Fool's Day",
+     "Trends",
+     "Viral Trends",
+     "New Trends",
+     "New YouTube Trends",
+     "YouTube Trends",
+     "Glub Glub",
+     "Glub Glub Dance",
+     "Glub Glub Water Dance",
+     "Viral Videos",
+     "2014 Trends"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Glub Glub First Look #newtrends",
+     "description": "\"The Glub Glub Water Dance\" is already turning into a viral megahit. Get in on the dance craze yourself by uploading your own Water Dance videos. \n\nOfficial Glub Glub song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\n\nFor a sneak peek at what you'll be watching in 2014, also check out:\n\nYouTube Announces Upcoming Viral Video Trends http://goo.gl/frKCDE\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nUser-Submission: Chicken High Fives First Look http://goo.gl/XlAUC3\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nThis year, we're looking to you to submit your own viral trend ideas! Share your ideas using #newtrends and our Meme Development experts will choose their favorites and make them official YouTube trends, complete with demo videos on youtube.com/youtube. \n\nThanks to our guest stars for demonstrating the year's upcoming trends: Mark Douglas, Todd Womack, Bryan Olsen  https://www.youtube.com/user/barelypolitical\n\nBy submitting your ideas in any of these ways, you give YouTube permission to use your ideas in videos, images, and other content that may be displayed on YouTube, other Google services, or elsewhere on the Internet. This includes all of the rights we need to use your ideas, whether under copyright, patent, trademark, trade secret, or other intellectual property rights. You also agree to submit only ideas and other content for which you have all necessary licenses, rights, consents, and permissions to give us these rights.\n\nBy the way... April Fools! ;-)"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M2S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "611272",
+    "likeCount": "1903",
+    "dislikeCount": "948",
+    "favoriteCount": "0",
+    "commentCount": "536"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/QV7QH5gSvX6y53ade4lzZeq08-8\"",
+   "id": "-cEzsCAzTak",
+   "snippet": {
+    "publishedAt": "2008-01-19T20:54:52.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Council Checks In",
+    "description": "http://www.youtube.com/blog?entry=uzcmpiyRJgQ\r\n\r\nThey came, they saw, they conquered! During their visit to YouTube HQ in November, the Community Council had the opportunity to exchange thoughts and ideas directly with 'Tube staff from various teams and participate in usability studies. Through ongoing discussions with YouTube and beta feature testing (like video recommendations and a new home page design in the works), users bgirl5, bradofarrell, sarrycrey, tlg847, and visiblemode have made great strides in representing the community's voice within the product. \r\n\r\nCheck out the blog to get a rundown of features YouTube's Community Council has brought their influence to thus far, as well as what's already in the works: http://www.youtube.com/blog?entry=uzcmpiyRJgQ\r\n\r\nTo continue the cycle of feedback and discussions going between the community, the Council, and YouTube, we invite you to send us your ideas for new features, site improvements, and your input on those listed on the blog to: suggestions@youtube.com.\r\n\r\nOur goal is to continue bringing forth ideas and feedback from you, and the Council, and turn them into actual features on the site which will benefit the overall YouTube community. Rest assured, this group has been working diligently to turn users' suggestions into realities.\r\n\r\nThis message has been brought to you by your friendly YouTube Community Council.\r\n\r\nUntil the next update...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Community",
+     "Council",
+     "Blog",
+     "Updates",
+     "New",
+     "Features"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "The Council Checks In",
+     "description": "http://www.youtube.com/blog?entry=uzcmpiyRJgQ\r\n\r\nThey came, they saw, they conquered! During their visit to YouTube HQ in November, the Community Council had the opportunity to exchange thoughts and ideas directly with 'Tube staff from various teams and participate in usability studies. Through ongoing discussions with YouTube and beta feature testing (like video recommendations and a new home page design in the works), users bgirl5, bradofarrell, sarrycrey, tlg847, and visiblemode have made great strides in representing the community's voice within the product. \r\n\r\nCheck out the blog to get a rundown of features YouTube's Community Council has brought their influence to thus far, as well as what's already in the works: http://www.youtube.com/blog?entry=uzcmpiyRJgQ\r\n\r\nTo continue the cycle of feedback and discussions going between the community, the Council, and YouTube, we invite you to send us your ideas for new features, site improvements, and your input on those listed on the blog to: suggestions@youtube.com.\r\n\r\nOur goal is to continue bringing forth ideas and feedback from you, and the Council, and turn them into actual features on the site which will benefit the overall YouTube community. Rest assured, this group has been working diligently to turn users' suggestions into realities.\r\n\r\nThis message has been brought to you by your friendly YouTube Community Council.\r\n\r\nUntil the next update..."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT3M17S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "92544",
+    "likeCount": "500",
+    "dislikeCount": "508",
+    "favoriteCount": "0",
+    "commentCount": "1024"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/-8svwnYrEPU0vOhkFQD4AmDJ7u4\"",
+   "id": "-m_S-IDs3Wg",
+   "snippet": {
+    "publishedAt": "2013-07-24T06:58:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Geek Week, Find Your Channels",
+    "description": "Find your channels during YouTube Geek Week, see what you missed at http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nCome hang out at YouTube Geek Week and celebrate geek culture with a whole week of new vids, series premieres, epic collabs, and top tens from more than 100 channels across YouTube.\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and follow @YouTube (http://twitter.com/youtube)\n\n-------------------------------------------------------------------------------------\n\nWATCH Bill Nye and Chris Hardiwck on Nerdist - http://youtube.com/nerdist\nWATCH Felicia Day on Geek & Sundry - http://youtube.com/geekandsundry\nWATCH Michelle Phan on FAWN - http://youtube.com/fawn\nWATCH Clips from Marvel's Thor: The Dark World on MARVEL - http://youtube.com/MARVEL\nWATCH Head Squeeze - http://youtube.com/HeadsqueezeTV\nWATCH Veritasium -http://youtube.com/1veritasium\nWATCH FreddieW - http://youtube.com/freddiew \nWATCH TomSka - http://youtube.com/TomSka\nWATCH Khan Academy - http://youtube.com/khanacademy \nWATCH Corey Vidal on ApprenticeA - http://youtube.com/apprenticeA \n\n-------------------------------------------------------------------------------------\n\nGEEK WEEK RUNDOWN, AUGUST 4 - 10:\n\nBLOCKBUSTER SUNDAY\nCelebrating iconic characters, movies, sci-fi, fantasy and animation. Hosted by FreddieW.\n\nGLOBAL GEEKERY MONDAY\nExplore geek culture around the world. Hosted by YOMYOMF.\n\nBRAINIAC TUESDAY\nScience, education and knowledge are the focus. Hosted by Veritasium and The Spangler Effect.\n\nSUPER WEDNESDAY\nSuperheroes, the supernatural and the super-weird. Hosted by Stan Lee's World of Heroes.\n\nGAMING THURSDAY\nA gamers' paradise ... live plays, games in real life, game series and more. Hosted by Machinima and Maker Studio's Polaris.\n\nFAN FRIDAY\nFans will take center stage. Hosted by Felicia Day of Geek & Sundry.\n\nBEST OF GEEK WEEK SATURDAY\nSee what you missed as we wrap up Geek Week with all the highlights.\n\nSong: \"Disparate Youth\" by Santigold",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Get Ready For Gw",
+     "Chris Hardwick",
+     "YouTube Geek Week",
+     "Veritasium",
+     "YouTube",
+     "FreddieW",
+     "ApprenticeA",
+     "Nerdist",
+     "Geek & Sundry",
+     "Felicia Day",
+     "geek week",
+     "best of geek week",
+     "geek week commercial",
+     "geek week ads",
+     "geek week tv ad",
+     "#geekweek",
+     "youtube geek week",
+     "youtube #geekweek",
+     "geek culture",
+     "blockbuster day",
+     "global geekery",
+     "brainiac day",
+     "super Wednesday",
+     "world of heroes",
+     "gaming day",
+     "youtube gaming day",
+     "fan day",
+     "youtube fan day"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Geek Week, Find Your Channels",
+     "description": "Find your channels during YouTube Geek Week, see what you missed at http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nCome hang out at YouTube Geek Week and celebrate geek culture with a whole week of new vids, series premieres, epic collabs, and top tens from more than 100 channels across YouTube.\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and follow @YouTube (http://twitter.com/youtube)\n\n-------------------------------------------------------------------------------------\n\nWATCH Bill Nye and Chris Hardiwck on Nerdist - http://youtube.com/nerdist\nWATCH Felicia Day on Geek & Sundry - http://youtube.com/geekandsundry\nWATCH Michelle Phan on FAWN - http://youtube.com/fawn\nWATCH Clips from Marvel's Thor: The Dark World on MARVEL - http://youtube.com/MARVEL\nWATCH Head Squeeze - http://youtube.com/HeadsqueezeTV\nWATCH Veritasium -http://youtube.com/1veritasium\nWATCH FreddieW - http://youtube.com/freddiew \nWATCH TomSka - http://youtube.com/TomSka\nWATCH Khan Academy - http://youtube.com/khanacademy \nWATCH Corey Vidal on ApprenticeA - http://youtube.com/apprenticeA \n\n-------------------------------------------------------------------------------------\n\nGEEK WEEK RUNDOWN, AUGUST 4 - 10:\n\nBLOCKBUSTER SUNDAY\nCelebrating iconic characters, movies, sci-fi, fantasy and animation. Hosted by FreddieW.\n\nGLOBAL GEEKERY MONDAY\nExplore geek culture around the world. Hosted by YOMYOMF.\n\nBRAINIAC TUESDAY\nScience, education and knowledge are the focus. Hosted by Veritasium and The Spangler Effect.\n\nSUPER WEDNESDAY\nSuperheroes, the supernatural and the super-weird. Hosted by Stan Lee's World of Heroes.\n\nGAMING THURSDAY\nA gamers' paradise ... live plays, games in real life, game series and more. Hosted by Machinima and Maker Studio's Polaris.\n\nFAN FRIDAY\nFans will take center stage. Hosted by Felicia Day of Geek & Sundry.\n\nBEST OF GEEK WEEK SATURDAY\nSee what you missed as we wrap up Geek Week with all the highlights.\n\nSong: \"Disparate Youth\" by Santigold"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT31S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "3791592",
+    "likeCount": "13624",
+    "dislikeCount": "2643",
+    "favoriteCount": "0",
+    "commentCount": "4699"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/OOq9xNQATH0MSmBpXGWpiicpmNk\"",
+   "id": "0aRIlnQzw-A",
+   "snippet": {
+    "publishedAt": "2010-02-09T23:27:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Subscriptions",
+    "description": "What are subscriptions and how do they work? Cuddles explains. Made by http://www.youtube.com/mondominishows",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube 101",
+     "subscriptions",
+     "recent activity",
+     "channels",
+     "mondo media",
+     "cuddles",
+     "giggles",
+     "subscribers",
+     "messaging",
+     "unsubscribe",
+     "edit subscriptions",
+     "mondominishows"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube 101: Subscriptions",
+     "description": "What are subscriptions and how do they work? Cuddles explains. Made by http://www.youtube.com/mondominishows"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "6412431",
+    "likeCount": "27341",
+    "dislikeCount": "11315",
+    "favoriteCount": "0",
+    "commentCount": "6967"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/bqlq85pmLUTxYI2AbcuOYcas5W8\"",
+   "id": "0gY_9semywg",
+   "snippet": {
+    "publishedAt": "2011-01-19T01:08:23.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "5 Questions for Pomplamoose",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0gY_9semywg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0gY_9semywg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0gY_9semywg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0gY_9semywg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0gY_9semywg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Pompalmoose",
+     "Questions"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "5 Questions for Pomplamoose",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "duration": "PT6M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "31771",
+    "likeCount": "212",
+    "dislikeCount": "199",
+    "favoriteCount": "0",
+    "commentCount": "204"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/tN62cC1QaPHr-9dBOzCoeeDrfWY\"",
+   "id": "0IX_od-yank",
+   "snippet": {
+    "publishedAt": "2014-04-01T19:29:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "User Submission: Chicken High Five First Look #newtrends",
+    "description": "User UncleTerry (@Sean_ACIS) submitted this great idea for a new trend: Chicken High-Five.  Our team of producers and writers created this demo to explain how you can get in on this sure-fire future hit!\n\nFor a sneak peek at what you'll be watching in 2014, also check out:\n\nYouTube Announces Upcoming Viral Video Trends http://goo.gl/frKCDE\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nGlub Glub First Look http://goo.gl/dMnMU4\n***Official Glub Glub song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nBy the way... April Fools! ;-)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "April Fools' Day (Holiday)",
+     "YouTube",
+     "2014",
+     "April Fools",
+     "April Fools Day",
+     "April Fool's Day",
+     "Trends",
+     "Viral Trends",
+     "New Trends",
+     "YouTube Trends",
+     "New YouTube Trends",
+     "2014 Trends",
+     "Viral Videos",
+     "Chicken High Fives"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "User Submission: Chicken High Five First Look #newtrends",
+     "description": "User UncleTerry (@Sean_ACIS) submitted this great idea for a new trend: Chicken High-Five.  Our team of producers and writers created this demo to explain how you can get in on this sure-fire future hit!\n\nFor a sneak peek at what you'll be watching in 2014, also check out:\n\nYouTube Announces Upcoming Viral Video Trends http://goo.gl/frKCDE\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nGlub Glub First Look http://goo.gl/dMnMU4\n***Official Glub Glub song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nBy the way... April Fools! ;-)"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT34S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "268183",
+    "likeCount": "762",
+    "dislikeCount": "1310",
+    "favoriteCount": "0",
+    "commentCount": "219"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/vMJ1v_XfXW0n9mQ3jm0LmCkmBSk\"",
+   "id": "0YUbYohGMOg",
+   "snippet": {
+    "publishedAt": "2014-04-01T06:53:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Announces Upcoming Viral Video Trends #newtrends",
+    "description": "Here at YouTube HQ, we write, shoot, and upload all of the world's most popular viral videos. Here's a sneak peek at what you'll be watching in 2014.\n\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nGlub Glub First Look http://goo.gl/dMnMU4\n***Official Glub Glub Water Dance song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\nUser-Submission: Chicken High Fives First Look http://goo.gl/XlAUC3\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nAnd this year, we're looking to you to submit your own viral trend ideas! Share your ideas using #newtrends and our Meme Development experts will choose their favorites and make them official YouTube trends, complete with demo videos on youtube.com/youtube. \n\nThanks to our guest stars for demonstrating the year's upcoming trends: Gregory Brothers (https://www.youtube.com/thegregorybrothers), Todd Womack (https://www.youtube.com/barelypolitical), Jake Roper (https://www.youtube.com/vsauce3), Andy Zou, Molly Gallagher, Vanessa Hill, Kung Pao O'Malley\n\nAnd thank you to our past trend successes:\nGangnam Style https://www.youtube.com/watch?v=9bZkp7q19f0\nTrampoline Fail Excites Dog https://www.youtube.com/watch?v=2g1uC3e__CY\nFriday - Rebecca Black http://www.youtube.com/watch?v=kfVsfOSbJY0\nLeave Britney Alone! http://www.youtube.com/watch?v=kHmvkRoEowc\nThe Screaming Sheep http://www.youtube.com/watch?v=SIaFtAKnqBU\nDouble Rainbow: http://www.youtube.com/watch?v=OQSNhk5ICTI\nNyan Cat: https://www.youtube.com/watch?v=QH2-TGUlwu4\nThe Harlem Shake - BREAK: https://www.youtube.com/watch?v=CtXeetiPyvU\n\nBy submitting your ideas in any of these ways, you give YouTube permission to use your ideas in videos, images, and other content that may be displayed on YouTube, other Google services, or elsewhere on the Internet. This includes all of the rights we need to use your ideas, whether under copyright, patent, trademark, trade secret, or other intellectual property rights. You also agree to submit only ideas and other content for which you have all necessary licenses, rights, consents, and permissions to give us these rights.\n\nBy the way... April Fools! ;-)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "April Fools' Day (Holiday)",
+     "YouTube",
+     "2014",
+     "April Fools",
+     "Trends",
+     "Viral Trends",
+     "New Trends",
+     "New YouTube Trends",
+     "YouTube Trends",
+     "Clocking",
+     "Glub Glub Water Dance",
+     "Kissing Dad",
+     "Finish Lining",
+     "Butter Fails",
+     "Baby Shaming",
+     "Viral Videos",
+     "2014 Trends",
+     "April Fools Day",
+     "April Fool's Day"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Announces Upcoming Viral Video Trends #newtrends",
+     "description": "Here at YouTube HQ, we write, shoot, and upload all of the world's most popular viral videos. Here's a sneak peek at what you'll be watching in 2014.\n\nClocking First Look http://goo.gl/6I5zn0\nKissing Dad First Look http://goo.gl/NmoVPJ\nGlub Glub First Look http://goo.gl/dMnMU4\n***Official Glub Glub Water Dance song available on the YouTube Audio Library: https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5\nUser-Submission: Chicken High Fives First Look http://goo.gl/XlAUC3\nUser-Submission: Flash-Sobbing First Look http://goo.gl/XOPFHd\nUser-Submission: Guitar Tricking First Look http://goo.gl/2cvfRK\n\nAnd this year, we're looking to you to submit your own viral trend ideas! Share your ideas using #newtrends and our Meme Development experts will choose their favorites and make them official YouTube trends, complete with demo videos on youtube.com/youtube. \n\nThanks to our guest stars for demonstrating the year's upcoming trends: Gregory Brothers (https://www.youtube.com/thegregorybrothers), Todd Womack (https://www.youtube.com/barelypolitical), Jake Roper (https://www.youtube.com/vsauce3), Andy Zou, Molly Gallagher, Vanessa Hill, Kung Pao O'Malley\n\nAnd thank you to our past trend successes:\nGangnam Style https://www.youtube.com/watch?v=9bZkp7q19f0\nTrampoline Fail Excites Dog https://www.youtube.com/watch?v=2g1uC3e__CY\nFriday - Rebecca Black http://www.youtube.com/watch?v=kfVsfOSbJY0\nLeave Britney Alone! http://www.youtube.com/watch?v=kHmvkRoEowc\nThe Screaming Sheep http://www.youtube.com/watch?v=SIaFtAKnqBU\nDouble Rainbow: http://www.youtube.com/watch?v=OQSNhk5ICTI\nNyan Cat: https://www.youtube.com/watch?v=QH2-TGUlwu4\nThe Harlem Shake - BREAK: https://www.youtube.com/watch?v=CtXeetiPyvU\n\nBy submitting your ideas in any of these ways, you give YouTube permission to use your ideas in videos, images, and other content that may be displayed on YouTube, other Google services, or elsewhere on the Internet. This includes all of the rights we need to use your ideas, whether under copyright, patent, trademark, trade secret, or other intellectual property rights. You also agree to submit only ideas and other content for which you have all necessary licenses, rights, consents, and permissions to give us these rights.\n\nBy the way... April Fools! ;-)"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT3M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2784528",
+    "likeCount": "14452",
+    "dislikeCount": "6983",
+    "favoriteCount": "0",
+    "commentCount": "4744"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/L4xaL_MfLu_hql7y8KKL-hyhMoc\"",
+   "id": "1xaKTFVRobc",
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Oooh\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "The Lonely Island are Andy Samberg, Akiva Schaffer and Jorma Taccone. Oooh. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH more Andy, Akiva and Jorma... The Lonely Island on YouTube - http://youtube.com/thelonelyisland\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Jorma Taccone",
+     "comedy week",
+     "youtube comedy week",
+     "jash",
+     "Akiva Schaffer",
+     "tv ad",
+     "sarah silverman",
+     "coming soon",
+     "the lonely island",
+     "thelonelyisland",
+     "Comedy Week Teasers",
+     "andy samberg"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "\"Oooh\" - YouTube Comedy Week - Join in May 19-25",
+     "description": "The Lonely Island are Andy Samberg, Akiva Schaffer and Jorma Taccone. Oooh. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH more Andy, Akiva and Jorma... The Lonely Island on YouTube - http://youtube.com/thelonelyisland\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "3580124",
+    "likeCount": "2072",
+    "dislikeCount": "163",
+    "favoriteCount": "0",
+    "commentCount": "226"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/LpJCMNZ3YPE_P4nqAPyxkpBSyzs\"",
+   "id": "2Awf-P1THUg",
+   "snippet": {
+    "publishedAt": "2013-05-18T15:27:17.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Naked\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Comedy Week gets off to an awkward start when Dan meets David Mitchell for the first time. Join in now for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH DanIsNotOnFire - http://youtube.com/danisnotonfire\nWATCH David Mitchell get up on his YouTube soapbox: http://youtube.com/davidmitchellsoapbox\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "comedy week",
+     "tv ad",
+     "youtube comedy week",
+     "epicrapbattles",
+     "funny",
+     "comedy",
+     "comedy week teasers",
+     "david mitchell",
+     "danisnotonfire"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "\"Naked\" - YouTube Comedy Week - Join in May 19-25",
+     "description": "Comedy Week gets off to an awkward start when Dan meets David Mitchell for the first time. Join in now for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH DanIsNotOnFire - http://youtube.com/danisnotonfire\nWATCH David Mitchell get up on his YouTube soapbox: http://youtube.com/davidmitchellsoapbox\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT23S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "155799",
+    "likeCount": "4362",
+    "dislikeCount": "118",
+    "favoriteCount": "0",
+    "commentCount": "462"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/7JdA6Mvv59XE8yq0oJyWz_8efF4\"",
+   "id": "2b5uKF-7qDM",
+   "snippet": {
+    "publishedAt": "2012-03-21T19:00:11.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Improve YouTube Video Awesomeness",
+    "description": "Have shaky or dark videos? Make your videos look awesome with our new tool. Just upload a video and try it out!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2b5uKF-7qDM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2b5uKF-7qDM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2b5uKF-7qDM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2b5uKF-7qDM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2b5uKF-7qDM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "videoeditor"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Improve YouTube Video Awesomeness",
+     "description": "Have shaky or dark videos? Make your videos look awesome with our new tool. Just upload a video and try it out!"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT35S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "250518",
+    "likeCount": "1295",
+    "dislikeCount": "296",
+    "favoriteCount": "0",
+    "commentCount": "530"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/02oH6--iLTJhIyZu597JAjRCHQk\"",
+   "id": "2DZcAQlJr8A",
+   "snippet": {
+    "publishedAt": "2013-10-30T23:26:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards: Volcano",
+    "description": "Watch the YouTube Music Awards live on November 3 at 6pm EST. Presented by Kia, and hosted by actor and musician Jason Schwartzman and comedian and musician Reggie Watts.\n\nThe YouTube Music Awards is all about you — the fans — and the artists and videos you love. The nominees were selected based purely on YouTube data from the last 12 months, and every time you watched, shared, liked, or subscribed, you helped determine the final list.\n\nCast your vote NOW by searching for \"YTMA\" on YouTube, and share the official nomination videos on Google+, Facebook or Twitter. It's that easy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2DZcAQlJr8A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2DZcAQlJr8A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2DZcAQlJr8A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2DZcAQlJr8A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2DZcAQlJr8A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube Music Awards",
+     "YTMA",
+     "YTMAs",
+     "YouTube Awards (Award)",
+     "Music Awards",
+     "2013",
+     "Jason Schwartzman (Film Writer)",
+     "Eminem (Record Producer)",
+     "Lady Gaga (Musical Artist)",
+     "New York City (City/Town/Village)",
+     "Rio De Janeiro (City/Town/Village)",
+     "London (City/Town/Village)",
+     "Moscow (City/Town/Village)",
+     "Seoul (City/Town/Village)"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Music Awards: Volcano",
+     "description": "Watch the YouTube Music Awards live on November 3 at 6pm EST. Presented by Kia, and hosted by actor and musician Jason Schwartzman and comedian and musician Reggie Watts.\n\nThe YouTube Music Awards is all about you — the fans — and the artists and videos you love. The nominees were selected based purely on YouTube data from the last 12 months, and every time you watched, shared, liked, or subscribed, you helped determine the final list.\n\nCast your vote NOW by searching for \"YTMA\" on YouTube, and share the official nomination videos on Google+, Facebook or Twitter. It's that easy."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT33S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "98893",
+    "likeCount": "489",
+    "dislikeCount": "558",
+    "favoriteCount": "0",
+    "commentCount": "182"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/WhK85zwivnncAgdXUr5A9rfFSNw\"",
+   "id": "2IuXzs13BmU",
+   "snippet": {
+    "publishedAt": "2010-02-03T23:26:18.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Creating Playlists",
+    "description": "What are playlists, and how do you create, organize and share them? This video reveals all. Made by http://www.youtube.com/rockyourwhirled",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "surprised kitty"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube 101: Creating Playlists",
+     "description": "What are playlists, and how do you create, organize and share them? This video reveals all. Made by http://www.youtube.com/rockyourwhirled"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT3M19S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "664346",
+    "likeCount": "1894",
+    "dislikeCount": "602",
+    "favoriteCount": "0",
+    "commentCount": "728"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/WIkHXNdVxwfvlEjBP-660fcsec8\"",
+   "id": "2nGW7-zbysc",
+   "snippet": {
+    "publishedAt": "2013-05-25T03:29:48.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Set List Live and Music Night - YouTube Comedy Week Live",
+    "description": "Part I -- Set List Live: What happens when comedians are forced to throw out the notes and riff on subjects they see at the same time the audience does? Find out on Set List Live, part of our big two-hour YouTube Comedy Week Live special -- hosted by Paul Provenza and featuring Reggie Watts (http://youtube.com/ReggieWattsJash), Matt Kirshen (http://youtube.com/ChannelMattKirshen), Kira Soltanovich, Moshe Kasher, and Dan Van Kirk.\n\nPart II -- Music Night: The second part of our two-hour YouTube Comedy Week Live special features the stars that have made musical comedy one of YouTube's biggest draws, including Reggie Watts, Nice Peter, Nick Thune, Dragon Boy Suede (http://youtube.com/dragonboysuede), Nancy and Beth, Karen Kilgariff, Weird Al (http://youtube.com/alyankovicVEVO), and more.\n\nWatch more YouTube Comedy Week videos at http://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "funny",
+     "Karen Kilgariff",
+     "Matt Kirshen",
+     "Dan Van Kirk",
+     "stand-up",
+     "Kira Soltanovich",
+     "comedy week",
+     "music",
+     "Weird Al",
+     "improv",
+     "Nice Peter",
+     "Moshe Kasher",
+     "Set List Live",
+     "comics",
+     "youtube comedy week",
+     "Dragon Boy Suede",
+     "Nerdist",
+     "improvisation",
+     "Nancy and Beth",
+     "Paul Provenza",
+     "Nick Thune",
+     "Comedy Week Coming Soon",
+     "comedy",
+     "comedy week live",
+     "Reggie Watts",
+     "musical comedy",
+     "Set List"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Set List Live and Music Night - YouTube Comedy Week Live",
+     "description": "Part I -- Set List Live: What happens when comedians are forced to throw out the notes and riff on subjects they see at the same time the audience does? Find out on Set List Live, part of our big two-hour YouTube Comedy Week Live special -- hosted by Paul Provenza and featuring Reggie Watts (http://youtube.com/ReggieWattsJash), Matt Kirshen (http://youtube.com/ChannelMattKirshen), Kira Soltanovich, Moshe Kasher, and Dan Van Kirk.\n\nPart II -- Music Night: The second part of our two-hour YouTube Comedy Week Live special features the stars that have made musical comedy one of YouTube's biggest draws, including Reggie Watts, Nice Peter, Nick Thune, Dragon Boy Suede (http://youtube.com/dragonboysuede), Nancy and Beth, Karen Kilgariff, Weird Al (http://youtube.com/alyankovicVEVO), and more.\n\nWatch more YouTube Comedy Week videos at http://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2H18M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "contentRating": {
+     "ytRating": "ytAgeRestricted"
+    },
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "79005",
+    "likeCount": "1429",
+    "dislikeCount": "425",
+    "favoriteCount": "0",
+    "commentCount": "6883"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/NfIRNETNVrlB7TEK9DJFE_NO9aQ\"",
+   "id": "3AnAKQ-bQmU",
+   "snippet": {
+    "publishedAt": "2011-09-16T14:42:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Inspiration Time! YouTube NextUp EMEA Day 4",
+    "description": "Our NextUppers have learned and collaborated all week, helping each other produce fantastic virtuoso videos.  Imagination, innovation and inspiration -- a sure-fire recipe for YouTube success!\r\n \r\nWhat we want to know is, what's the most inspirational video you've seen on YouTube and why? Answer in the comments!\r\n \r\nOur NextUp EMEA Winners:\r\n \r\nhttp://www.youtube.com/tyrannosauruslexxx\r\nhttp://www.youtube.com/einAstronaut\r\nhttp://www.youtube.com/DxDutch\r\nhttp://www.youtube.com/jpelirrojo\r\nhttp://www.youtube.com/itsrushsmith\r\nhttp://www.youtube.com/Peepholecircus\r\nhttp://www.youtube.com/GiR2007\r\nhttp://www.youtube.com/ShooRaynerDrawing\r\nhttp://www.youtube.com/MarcusButlerTV\r\nhttp://www.youtube.com/Khyan1\r\nhttp://www.youtube.com/DirectorToby\r\nhttp://www.youtube.com/TanzbaerundSimon\r\nhttp://www.youtube.com/SceneTakeTV\r\nhttp://www.youtube.com/danslapeaudemartin\r\nhttp://www.youtube.com/IDTC\r\nhttp://www.youtube.com/juliusfhan\r\nhttp://www.youtube.com/enricozerodx\r\nhttp://www.youtube.com/zizzomagic\r\nhttp://www.youtube.com/CreativeByMind\r\nhttp://www.youtube.com/TheRHExperience\r\nhttp://www.youtube.com/daaruum\r\nhttp://www.youtube.com/iBlali\r\nhttp://www.youtube.com/faireset2\r\nhttp://www.youtube.com/booksandquills\r\nhttp://www.youtube.com/clipsetvideo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3AnAKQ-bQmU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3AnAKQ-bQmU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3AnAKQ-bQmU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3AnAKQ-bQmU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3AnAKQ-bQmU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "NextUp",
+     "camp",
+     "london",
+     "creators",
+     "partnerprogram",
+     "YouTubePartners",
+     "Partners",
+     "filmmaking",
+     "inspiration",
+     "innovation",
+     "imagination",
+     "fans",
+     "comments",
+     "interaction",
+     "audience"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Inspiration Time! YouTube NextUp EMEA Day 4",
+     "description": "Our NextUppers have learned and collaborated all week, helping each other produce fantastic virtuoso videos.  Imagination, innovation and inspiration -- a sure-fire recipe for YouTube success!\r\n \r\nWhat we want to know is, what's the most inspirational video you've seen on YouTube and why? Answer in the comments!\r\n \r\nOur NextUp EMEA Winners:\r\n \r\nhttp://www.youtube.com/tyrannosauruslexxx\r\nhttp://www.youtube.com/einAstronaut\r\nhttp://www.youtube.com/DxDutch\r\nhttp://www.youtube.com/jpelirrojo\r\nhttp://www.youtube.com/itsrushsmith\r\nhttp://www.youtube.com/Peepholecircus\r\nhttp://www.youtube.com/GiR2007\r\nhttp://www.youtube.com/ShooRaynerDrawing\r\nhttp://www.youtube.com/MarcusButlerTV\r\nhttp://www.youtube.com/Khyan1\r\nhttp://www.youtube.com/DirectorToby\r\nhttp://www.youtube.com/TanzbaerundSimon\r\nhttp://www.youtube.com/SceneTakeTV\r\nhttp://www.youtube.com/danslapeaudemartin\r\nhttp://www.youtube.com/IDTC\r\nhttp://www.youtube.com/juliusfhan\r\nhttp://www.youtube.com/enricozerodx\r\nhttp://www.youtube.com/zizzomagic\r\nhttp://www.youtube.com/CreativeByMind\r\nhttp://www.youtube.com/TheRHExperience\r\nhttp://www.youtube.com/daaruum\r\nhttp://www.youtube.com/iBlali\r\nhttp://www.youtube.com/faireset2\r\nhttp://www.youtube.com/booksandquills\r\nhttp://www.youtube.com/clipsetvideo"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M5S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "25584",
+    "likeCount": "200",
+    "dislikeCount": "95",
+    "favoriteCount": "0",
+    "commentCount": "122"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/H3F_HixVB1IVIyqgw1pOTX_Tj6o\"",
+   "id": "3eZTh94Fapg",
+   "snippet": {
+    "publishedAt": "2008-07-07T23:30:09.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "How do you get featured on YouTube?",
+    "description": "In this animated short \"The Birds and the Biz,\" Jantze studios finally explains the secret behind getting your work featured by YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3eZTh94Fapg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3eZTh94Fapg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3eZTh94Fapg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Bears",
+     "Featured",
+     "Bees",
+     "Zoo",
+     "Animation",
+     "Jantze",
+     "Whiteboard",
+     "Secret"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "How do you get featured on YouTube?",
+     "description": "In this animated short \"The Birds and the Biz,\" Jantze studios finally explains the secret behind getting your work featured by YouTube."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M23S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "724405",
+    "likeCount": "6556",
+    "dislikeCount": "907",
+    "favoriteCount": "0",
+    "commentCount": "3663"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/6cj8TXI0TYKUSTLhBKx3AuIrD_s\"",
+   "id": "3QZXjSy0Ogk",
+   "snippet": {
+    "publishedAt": "2009-03-31T20:40:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Meet The YouTube Symphony Orchestra",
+    "description": "http://youtube.com/symphony Some of the YouTube Symphony Orchestra members introduce themselves as they prepare for their journey to Carnegie Hall on April 15, 2009. Buy tickets: http://www.carnegiehall.org/article/box_office/events/evt_13015.html?selecteddate=04152009",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3QZXjSy0Ogk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3QZXjSy0Ogk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3QZXjSy0Ogk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3QZXjSy0Ogk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3QZXjSy0Ogk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "symphony",
+     "orchestra",
+     "classical",
+     "YTSO",
+     "MTT",
+     "michael",
+     "tilson",
+     "thomas",
+     "carnegie",
+     "hall"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Meet The YouTube Symphony Orchestra",
+     "description": "http://youtube.com/symphony Some of the YouTube Symphony Orchestra members introduce themselves as they prepare for their journey to Carnegie Hall on April 15, 2009. Buy tickets: http://www.carnegiehall.org/article/box_office/events/evt_13015.html?selecteddate=04152009"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT6M9S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "184529",
+    "likeCount": "180",
+    "dislikeCount": "143",
+    "favoriteCount": "0",
+    "commentCount": "242"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/jnFyAnGscRn2rJFA25pvPoz-UpM\"",
+   "id": "3VsWReBrfeg",
+   "snippet": {
+    "publishedAt": "2006-10-17T06:33:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "First Day in San Bruno",
+    "description": "Our first day in the San Bruno office. What a day it was.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "google",
+     "san",
+     "bruno"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "First Day in San Bruno",
+     "description": "Our first day in the San Bruno office. What a day it was."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M14S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "23774",
+    "likeCount": "97",
+    "dislikeCount": "47",
+    "favoriteCount": "0",
+    "commentCount": "63"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/blS8EMl1THggsskq137_u5CLEAw\"",
+   "id": "4HecQTodMtU",
+   "snippet": {
+    "publishedAt": "2010-05-27T05:45:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Moderator on YouTube",
+    "description": "Moderator is a versatile, social platform on your YouTube channel that allows you to solicit ideas or questions on any topic, and have the community vote the best ones up to to the top in real-time. \n\nHere's how it works: \n\nYou set the parameters for the dialogue, including the topic, the type of submissions, and the length of the conversation. Watch as submissions get voted up or down by your audience, and then respond to the top-voted submissions. The platform operates in real-time, and you can remove any content that you or your audience flag as inappropriate. You can also embed the platform on your own website or blog.\n\nFor more information on how Moderator works and how to set it up on your YouTube channel, visit youtube.com/moderator.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4HecQTodMtU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4HecQTodMtU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4HecQTodMtU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4HecQTodMtU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4HecQTodMtU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "google",
+     "moderator",
+     "community",
+     "engagement"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Moderator on YouTube",
+     "description": "Moderator is a versatile, social platform on your YouTube channel that allows you to solicit ideas or questions on any topic, and have the community vote the best ones up to to the top in real-time. \n\nHere's how it works: \n\nYou set the parameters for the dialogue, including the topic, the type of submissions, and the length of the conversation. Watch as submissions get voted up or down by your audience, and then respond to the top-voted submissions. The platform operates in real-time, and you can remove any content that you or your audience flag as inappropriate. You can also embed the platform on your own website or blog.\n\nFor more information on how Moderator works and how to set it up on your YouTube channel, visit youtube.com/moderator."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M53S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "144482",
+    "likeCount": "716",
+    "dislikeCount": "436",
+    "favoriteCount": "0",
+    "commentCount": "604"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/rcvq-oXo6dzDSFZrUwVKoSduvXs\"",
+   "id": "4MLAe4RcVS4",
+   "snippet": {
+    "publishedAt": "2009-02-20T21:30:57.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Symphony Orchestra: Vote Now!",
+    "description": "http://youtube.com/symphony \n\nVote for your favourite musician in the YouTube Symphony Orchestra. Voting period starts February 14th and ends February 22nd.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "classical",
+     "youtube",
+     "symphony",
+     "orchestra"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Symphony Orchestra: Vote Now!",
+     "description": "http://youtube.com/symphony \n\nVote for your favourite musician in the YouTube Symphony Orchestra. Voting period starts February 14th and ends February 22nd."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT48S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "15873",
+    "likeCount": "190",
+    "dislikeCount": "95",
+    "favoriteCount": "0",
+    "commentCount": "138"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/5t90aCy-RAws3fA1JXOZOsTVm68\"",
+   "id": "4sgYdqOzAco",
+   "snippet": {
+    "publishedAt": "2013-07-24T11:57:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "A YouTube Geek Week Test by Nerdist",
+    "description": "Do you know your geek trivia? Let the Nerdist guys show you a thing or two.\n\nFind Your Channels during YouTube Geek Week, coming August 4-10 http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH More Doctor Who on BBC America -\nhttp://youtube.com/BBCAmericaTV \nWATCH More Machinima -\nhttp://youtube.com/machinima \nWATCH More World of Heroes-\nhttp://youtube.com/worldofheroes \n\nYouTube Geek Week is August 4-10 on the YouTube Spotlight channel. The YouTube Spotlight channel selects the best trending videos from across YouTube and posts them to your feed daily.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4sgYdqOzAco/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4sgYdqOzAco/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4sgYdqOzAco/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4sgYdqOzAco/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4sgYdqOzAco/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube Geek Week",
+     "World of Heroes",
+     "Doctor Who",
+     "YouTube",
+     "Geek Week",
+     "BBC America",
+     "Matt Smith",
+     "Machinima",
+     "Get Ready For Gw",
+     "Stan Lee"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "A YouTube Geek Week Test by Nerdist",
+     "description": "Do you know your geek trivia? Let the Nerdist guys show you a thing or two.\n\nFind Your Channels during YouTube Geek Week, coming August 4-10 http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH More Doctor Who on BBC America -\nhttp://youtube.com/BBCAmericaTV \nWATCH More Machinima -\nhttp://youtube.com/machinima \nWATCH More World of Heroes-\nhttp://youtube.com/worldofheroes \n\nYouTube Geek Week is August 4-10 on the YouTube Spotlight channel. The YouTube Spotlight channel selects the best trending videos from across YouTube and posts them to your feed daily."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "3933781",
+    "likeCount": "596",
+    "dislikeCount": "150",
+    "favoriteCount": "0",
+    "commentCount": "192"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/eWYn74TAjFBw6KdcCPgVW72ur8w\"",
+   "id": "50RKQp_o4Jg",
+   "snippet": {
+    "publishedAt": "2013-11-06T19:07:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Girls' Generation \"I Got a Boy\" Wins Video of the Year - Live at the YTMAs",
+    "description": "Tiffany Hwang accepts the Video of the Year Award on behalf of Girls' Generation for \"I Got a Boy\" live from the YTMAs on November 3.  Presented by Kia. Hosted by Jason Schwartzman and co-host Reggie Watts.\n\nCheck out the other award winners here http://www.youtube.com/musicawards\n\nVideo of the Year recognizes this year's biggest videos, based on what you watched, shared, liked and commented on. \n\nWatch the highlights, including performances from Lady Gaga, Eminem, Arcade Fire and more, at http://youtube.com/musicawards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/50RKQp_o4Jg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/50RKQp_o4Jg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/50RKQp_o4Jg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/50RKQp_o4Jg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/50RKQp_o4Jg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube music awards",
+     "ytma",
+     "ytmas",
+     "music awards",
+     "youtube awards",
+     "girls generation",
+     "i got a boy"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Girls' Generation \"I Got a Boy\" Wins Video of the Year - Live at the YTMAs",
+     "description": "Tiffany Hwang accepts the Video of the Year Award on behalf of Girls' Generation for \"I Got a Boy\" live from the YTMAs on November 3.  Presented by Kia. Hosted by Jason Schwartzman and co-host Reggie Watts.\n\nCheck out the other award winners here http://www.youtube.com/musicawards\n\nVideo of the Year recognizes this year's biggest videos, based on what you watched, shared, liked and commented on. \n\nWatch the highlights, including performances from Lady Gaga, Eminem, Arcade Fire and more, at http://youtube.com/musicawards."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT5M22S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "423409",
+    "likeCount": "5710",
+    "dislikeCount": "960",
+    "favoriteCount": "0",
+    "commentCount": "1086"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/qwBpHlyn6d1hI66gJN5Ar7kk5pM\"",
+   "id": "5ANcspdYh_U",
+   "snippet": {
+    "publishedAt": "2009-07-22T01:41:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube in 3D",
+    "description": "A message from software engineer Peter Bradshaw. Tag your video with yt3d:enable=true to enable the pulldown menu of 3D-viewing options. For more info, go to blog post: http://youtube-global.blogspot.com/2009/07/now-in-3d-join-experiment-with-us.html\r\n\r\nFor community discussion around 3D, go to forum: http://www.google.com/support/forum/p/youtube/thread?tid=56b6f6f15dabf994&hl=en",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "3D",
+     "video",
+     "yt3d:enable=true",
+     "yt3d:swap=true"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube in 3D",
+     "description": "A message from software engineer Peter Bradshaw. Tag your video with yt3d:enable=true to enable the pulldown menu of 3D-viewing options. For more info, go to blog post: http://youtube-global.blogspot.com/2009/07/now-in-3d-join-experiment-with-us.html\r\n\r\nFor community discussion around 3D, go to forum: http://www.google.com/support/forum/p/youtube/thread?tid=56b6f6f15dabf994&hl=en"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M2S",
+    "dimension": "3d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "4621510",
+    "likeCount": "3542",
+    "dislikeCount": "1219",
+    "favoriteCount": "0",
+    "commentCount": "3497"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Lqtn_pBxo-YcWtM8Smuz7YWDR7E\"",
+   "id": "5Qm4sM8BPCs",
+   "snippet": {
+    "publishedAt": "2013-11-06T19:06:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "DeStorm \"See Me Standing\" Wins Innovation of the Year - Live at the YTMAs",
+    "description": "DeStorm accepts the Innovation of the Year Award for \"See Me Standing,\" featuring OK Go, live from the YTMAs on November 3.  Presented by Kia. Hosted by Jason Schwartzman and co-host Reggie Watts.\n\nCheck out the other award winners here http://www.youtube.com/musicawards\n\nInnovation of the Year recognizes some of the most unique concepts and creators in music videos on YouTube this year.\n\nWatch the highlights, including performances from Lady Gaga, Eminem, Arcade Fire and more, at http://youtube.com/musicawards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube music awards",
+     "ytma",
+     "ytmas",
+     "music awards",
+     "youtube awards",
+     "innovation award",
+     "de storm",
+     "see me standing",
+     "destorm"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "DeStorm \"See Me Standing\" Wins Innovation of the Year - Live at the YTMAs",
+     "description": "DeStorm accepts the Innovation of the Year Award for \"See Me Standing,\" featuring OK Go, live from the YTMAs on November 3.  Presented by Kia. Hosted by Jason Schwartzman and co-host Reggie Watts.\n\nCheck out the other award winners here http://www.youtube.com/musicawards\n\nInnovation of the Year recognizes some of the most unique concepts and creators in music videos on YouTube this year.\n\nWatch the highlights, including performances from Lady Gaga, Eminem, Arcade Fire and more, at http://youtube.com/musicawards."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT4M42S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "199282",
+    "likeCount": "841",
+    "dislikeCount": "430",
+    "favoriteCount": "0",
+    "commentCount": "132"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/15uQ1vUpjwH41yxYrOXTr2J-mR8\"",
+   "id": "5z3cI0NnKN0",
+   "snippet": {
+    "publishedAt": "2013-05-20T04:01:21.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Big Live Comedy Show - YouTube Comedy Week",
+    "description": "Watch as Comedy Week kicks off with an all-star show featuring live performances and video debuts from some of the top names in comedy!\n \nStarring:\n\nSARAH SILVERMAN - http://youtube.com/SILVERMANVIDEOS  \nSETH ROGEN - http://youtube.com/watch?v=KWj8dcV5tDA \nTHE LONELY ISLAND - http://youtube.com/THELONELYISLAND \nT-PAIN - http://youtube.com/TPAINVEVO \nJERROD CARMICHAEL\nGARFUNKLE & OATES - http://youtube.com/RIKILIND \nPETE HOLMES - http://youtube.com/PETEHOLMES \nSQWAK.COM - http://youtube.com/SQWAKDOTCOM \nWORKAHOLICS - http://www.youtube.com/COMEDYCENTRAL \nLILBUBBUB - http://youtube.com/LILBUBBUB \nTHE FINE BROS - http://youtube.com/THEFINEBROS \nERIC ANDRE  - http://youtube.com/ADULTSWIM \nBEARDYMAN - http://youtube.com/BEARDYMAN \nREGGIE WATTS - http://youtube.com/REGGIEWATTSJASH \nSMOSH - http://youtube.com/SMOSH \nSHANE DAWSON - http://youtube.com/SHANEDAWSON \n¡THREE LOCO! - http://youtube.com/AMILONAKIS http://youtube.com/JODYHIGHROLLER  http://youtube.com/DIRTNASTY http://youtube.com/MAKERMUSIC \nJUSTIN WILLMAN - http://youtube.com/KREDIBLE \nEPIC RAP BATTLES OF HISTORY - http://youtube.com/ERB \nNICE PETER - http://youtube.com/NICEPETER \nEPIC LLOYD - http://youtube.com/EPICLLOYD \nSKRILLEX - http://youtube.com/THEOFFICIALSKRILLEX \nTOBY TURNER - http://youtube.com/TOBUSCUS \nJOHN DORE - http://youtube.com/JONDORETV \nVINCE VAUGHN & OWEN WILSON - http://youtube.com/THEINTERNSHIPMOVIE  \nJEFF ROSS - http://youtube.com/JEFFROSS \nEPIC MEAL TIME - http://youtube.com/EPICMEALTIME  \nTIM AND ERIC - http://youtube.com/TIMANDERICJASH \nDAX FLAME - http://youtube.com/DAXFLAME \nTHE KEY OF AWESOME - http://youtube.com/BARELYPOLITICAL \nRHETT AND LINK - http://youtube.com/RHETTANDLINK\nHANNIBAL BURRESS - http://youtube.com/HANNIBALBURESS \nJASH - http://youtube.com/JASHNETWORK\nFIDLAR - http://youtube.com/fidlarLA\n\nThis is the End in theaters June 12\nExclusive Clip - http://youtube.com/watch?v=KWj8dcV5tDA \n\nThe Internship in theaters June 7\nTrailer - http://youtube.com/THEINTERNSHIPMOVIE \n\n----------------------------------------\u00ad\u00ad\u00ad--------------------------------------\u00ad-\u00ad-\u00ad----\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Use #ComedyWeek (http://goo.gl/Yxb4E) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH YouTube Comedy Week EVERY DAY THIS WEEK: http://yt.be/comedyweek\nFull Comedy Week line-up: http://yt.be/comedyweek/channels \n\n----------------------------------------\u00ad\u00ad\u00ad--------------------------------------\u00ad-\u00ad-\u00ad----\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "the big live comedy show",
+     "improv everywhere",
+     "the lonely island",
+     "smosh",
+     "gregory brothers",
+     "jash",
+     "tomska",
+     "vince vaughan",
+     "the onion",
+     "epic rap battles of history",
+     "nerdist",
+     "michael cera",
+     "barely political",
+     "Comedy Week Live Post",
+     "kassemg",
+     "seth rogen",
+     "epic meal time",
+     "tim and eric",
+     "rainn wilson",
+     "comedy week teasers",
+     "grace helbig",
+     "collegehumor",
+     "daily grace",
+     "comedy week",
+     "reggie watts",
+     "david mitchell",
+     "key and peele",
+     "sarah silverman",
+     "AboveAverage",
+     "fine brothers",
+     "soul pancake",
+     "rhett and link"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "The Big Live Comedy Show - YouTube Comedy Week",
+     "description": "Watch as Comedy Week kicks off with an all-star show featuring live performances and video debuts from some of the top names in comedy!\n \nStarring:\n\nSARAH SILVERMAN - http://youtube.com/SILVERMANVIDEOS  \nSETH ROGEN - http://youtube.com/watch?v=KWj8dcV5tDA \nTHE LONELY ISLAND - http://youtube.com/THELONELYISLAND \nT-PAIN - http://youtube.com/TPAINVEVO \nJERROD CARMICHAEL\nGARFUNKLE & OATES - http://youtube.com/RIKILIND \nPETE HOLMES - http://youtube.com/PETEHOLMES \nSQWAK.COM - http://youtube.com/SQWAKDOTCOM \nWORKAHOLICS - http://www.youtube.com/COMEDYCENTRAL \nLILBUBBUB - http://youtube.com/LILBUBBUB \nTHE FINE BROS - http://youtube.com/THEFINEBROS \nERIC ANDRE  - http://youtube.com/ADULTSWIM \nBEARDYMAN - http://youtube.com/BEARDYMAN \nREGGIE WATTS - http://youtube.com/REGGIEWATTSJASH \nSMOSH - http://youtube.com/SMOSH \nSHANE DAWSON - http://youtube.com/SHANEDAWSON \n¡THREE LOCO! - http://youtube.com/AMILONAKIS http://youtube.com/JODYHIGHROLLER  http://youtube.com/DIRTNASTY http://youtube.com/MAKERMUSIC \nJUSTIN WILLMAN - http://youtube.com/KREDIBLE \nEPIC RAP BATTLES OF HISTORY - http://youtube.com/ERB \nNICE PETER - http://youtube.com/NICEPETER \nEPIC LLOYD - http://youtube.com/EPICLLOYD \nSKRILLEX - http://youtube.com/THEOFFICIALSKRILLEX \nTOBY TURNER - http://youtube.com/TOBUSCUS \nJOHN DORE - http://youtube.com/JONDORETV \nVINCE VAUGHN & OWEN WILSON - http://youtube.com/THEINTERNSHIPMOVIE  \nJEFF ROSS - http://youtube.com/JEFFROSS \nEPIC MEAL TIME - http://youtube.com/EPICMEALTIME  \nTIM AND ERIC - http://youtube.com/TIMANDERICJASH \nDAX FLAME - http://youtube.com/DAXFLAME \nTHE KEY OF AWESOME - http://youtube.com/BARELYPOLITICAL \nRHETT AND LINK - http://youtube.com/RHETTANDLINK\nHANNIBAL BURRESS - http://youtube.com/HANNIBALBURESS \nJASH - http://youtube.com/JASHNETWORK\nFIDLAR - http://youtube.com/fidlarLA\n\nThis is the End in theaters June 12\nExclusive Clip - http://youtube.com/watch?v=KWj8dcV5tDA \n\nThe Internship in theaters June 7\nTrailer - http://youtube.com/THEINTERNSHIPMOVIE \n\n----------------------------------------\u00ad\u00ad\u00ad--------------------------------------\u00ad-\u00ad-\u00ad----\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Use #ComedyWeek (http://goo.gl/Yxb4E) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH YouTube Comedy Week EVERY DAY THIS WEEK: http://yt.be/comedyweek\nFull Comedy Week line-up: http://yt.be/comedyweek/channels \n\n----------------------------------------\u00ad\u00ad\u00ad--------------------------------------\u00ad-\u00ad-\u00ad----\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2H46S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "contentRating": {
+     "ytRating": "ytAgeRestricted"
+    },
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1077480",
+    "likeCount": "38432",
+    "dislikeCount": "14481",
+    "favoriteCount": "0",
+    "commentCount": "260035"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/O5mRj8HoOxmC0JU-dXSXdw5jdzs\"",
+   "id": "5zTsJ7MLUJE",
+   "snippet": {
+    "publishedAt": "2013-07-24T11:57:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "A YouTube Geek Week Test by FreddieW",
+    "description": "Do you know your geek trivia? Let FreddieW show you a thing or two.\n\nFind Your Channels during YouTube Geek Week, coming August 4-10 http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH More FreddieW -\nhttp://youtube.com/freddiew \nWATCH More Nerdist -\nhttp://youtube.com/nerdist\nWATCH More Michelle Phan on FAWN -\nhttp://youtube.com/fawn\n\nYouTube Geek Week is August 4-10 on the YouTube Spotlight channel. The YouTube Spotlight channel selects the best trending videos from across YouTube and posts them to your feed daily.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5zTsJ7MLUJE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5zTsJ7MLUJE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5zTsJ7MLUJE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5zTsJ7MLUJE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5zTsJ7MLUJE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "YouTube Geek Week",
+     "Geek Week",
+     "FreddieW",
+     "Nerdist",
+     "Chris Hardwick",
+     "Michelle Phan",
+     "FAWN"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "A YouTube Geek Week Test by FreddieW",
+     "description": "Do you know your geek trivia? Let FreddieW show you a thing or two.\n\nFind Your Channels during YouTube Geek Week, coming August 4-10 http://yt.be/geekweek\n\nSUBSCRIBE to get YouTube Geek Week posts from the YouTube Spotlight channel: http://yt.be/geekweek/subscribe\n\nGOOGLE+: Follow +YouTube (http://plus.google.com/+YouTube) and use #GeekWeek (http://goo.gl/PrQ9CQ) \nTWITTER: Use #GeekWeek (http://goo.gl/dAfS4A) and tweet @YouTube (http://twitter.com/youtube)\n\nWATCH More FreddieW -\nhttp://youtube.com/freddiew \nWATCH More Nerdist -\nhttp://youtube.com/nerdist\nWATCH More Michelle Phan on FAWN -\nhttp://youtube.com/fawn\n\nYouTube Geek Week is August 4-10 on the YouTube Spotlight channel. The YouTube Spotlight channel selects the best trending videos from across YouTube and posts them to your feed daily."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "3506128",
+    "likeCount": "1345",
+    "dislikeCount": "217",
+    "favoriteCount": "0",
+    "commentCount": "645"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/XhyRbzSmz_f7fyuaruFwBg9jLyQ\"",
+   "id": "6jYw354P7eM",
+   "snippet": {
+    "publishedAt": "2013-10-15T01:18:29.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Kina Grannis and Kurt Hugo Schneider's Favorite 2013 Music Moments",
+    "description": "Kurt Hugo Schneider and Kina Grannis reveal their favorite music moments from 2013.\n\nKurt's channel: http://www.youtube.com/kurthugoschneider\n\nKina's channel: http://www.youtube.com/kinagrannis\n\nPentatonix \"Evolution of Music\" - http://www.youtube.com/watch?v=lExW80sXsHs\n\nMumford & Sons \"Hopeless Wanderer\" - http://www.youtube.com/watch?v=rId6PKlDXeU\n\nYouTube Music Awards: http://www.youtube.com/musicawards\n\nGet ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Kurt Hugo Schneider (Musical Artist)",
+     "Kina Grannis (Musical Artist)",
+     "YouTube",
+     "Rio De Janeiro (City/Town/Village)",
+     "Spike Jonze (Music Video Director)",
+     "London (City/Town/Village)",
+     "Jason Schwartzman (Film Writer)",
+     "Music (Industry)",
+     "Seoul (City/Town/Village)",
+     "New York City (City/Town/Village)",
+     "Moscow (City/Town/Village)",
+     "YouTube Music Awards",
+     "YTMA",
+     "YouTube Awards (Award)",
+     "Music Awards",
+     "2013"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Music Awards - Kina Grannis and Kurt Hugo Schneider's Favorite 2013 Music Moments",
+     "description": "Kurt Hugo Schneider and Kina Grannis reveal their favorite music moments from 2013.\n\nKurt's channel: http://www.youtube.com/kurthugoschneider\n\nKina's channel: http://www.youtube.com/kinagrannis\n\nPentatonix \"Evolution of Music\" - http://www.youtube.com/watch?v=lExW80sXsHs\n\nMumford & Sons \"Hopeless Wanderer\" - http://www.youtube.com/watch?v=rId6PKlDXeU\n\nYouTube Music Awards: http://www.youtube.com/musicawards\n\nGet ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M6S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "91132",
+    "likeCount": "1066",
+    "dislikeCount": "224",
+    "favoriteCount": "0",
+    "commentCount": "164"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/RgO3DTSQaQ7v20m5QdxkDsW4M1k\"",
+   "id": "6LQEu-HVE40",
+   "snippet": {
+    "publishedAt": "2009-07-07T12:03:08.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Why Have a Channel on YouTube?",
+    "description": "If you already love YouTube, you can do so much more\r\nby registering. Find out more about subscriptions, favourites,\r\nplaylists and your personalized homepage.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6LQEu-HVE40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6LQEu-HVE40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6LQEu-HVE40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6LQEu-HVE40/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6LQEu-HVE40/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "registration",
+     "join",
+     "animation",
+     "channel"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Why Have a Channel on YouTube?",
+     "description": "If you already love YouTube, you can do so much more\r\nby registering. Find out more about subscriptions, favourites,\r\nplaylists and your personalized homepage."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "235616",
+    "likeCount": "841",
+    "dislikeCount": "351",
+    "favoriteCount": "0",
+    "commentCount": "437"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Ka2G64uYfETM5viZg-R7v18gCKI\"",
+   "id": "6RlL2YeVGuU",
+   "snippet": {
+    "publishedAt": "2011-03-31T18:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Irksome Citrus",
+    "description": "It's a real hootenanny when fruit get to gabbing.\r\n\r\nSee the top 5 viral films from 1911: http://www.youtube.com/watch?v=CNm8ZCJ7Fx8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6RlL2YeVGuU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6RlL2YeVGuU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6RlL2YeVGuU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "annoying orange",
+     "daneboe",
+     "april fool's"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "The Irksome Citrus",
+     "description": "It's a real hootenanny when fruit get to gabbing.\r\n\r\nSee the top 5 viral films from 1911: http://www.youtube.com/watch?v=CNm8ZCJ7Fx8"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT27S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "103948",
+    "likeCount": "636",
+    "dislikeCount": "167",
+    "favoriteCount": "0",
+    "commentCount": "340"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ufKENtFeKf8zou2XdtgMSW72YJw\"",
+   "id": "6s-M6hfk9Ro",
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Seven straight days\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "On the phone with The Lonely Island and Sarah Silverman from JASH. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH The Lonely Island on YouTube - http://youtube.com/thelonelyisland\nWATCH Sarah Silverman's new videos on her JASH channel - http://youtube.com/SarahSilverman\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Jorma Taccone",
+     "comedy week",
+     "youtube comedy week",
+     "jash",
+     "Akiva Schaffer",
+     "tv ad",
+     "sarah silverman",
+     "coming soon",
+     "the lonely island",
+     "thelonelyisland",
+     "Comedy Week Teasers",
+     "andy samberg"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "\"Seven straight days\" - YouTube Comedy Week - Join in May 19-25",
+     "description": "On the phone with The Lonely Island and Sarah Silverman from JASH. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek\n\n------------------------------------------------------------------------------------\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Tweet @YouTube (http://twitter.com/youtube) and use #ComedyWeek (http://goo.gl/Yxb4E)\n\nWATCH The Lonely Island on YouTube - http://youtube.com/thelonelyisland\nWATCH Sarah Silverman's new videos on her JASH channel - http://youtube.com/SarahSilverman\n\nWATCH MORE COMEDY WEEK TEASERS: http://goo.gl/dEyZ0\n\n------------------------------------------------------------------------------------\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2077437",
+    "likeCount": "2085",
+    "dislikeCount": "123",
+    "favoriteCount": "0",
+    "commentCount": "177"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/_Mdn9cZqw72g3RJgUsymvI9S6-w\"",
+   "id": "7VN131tLEBc",
+   "snippet": {
+    "publishedAt": "2010-06-04T00:57:30.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Answers: Partnerships",
+    "description": "YouTube is a big place, but we're trying to make it feel a little bit smaller. That's why in April, we announced a new initiative in which you submit questions on a broad topic and then several employees who work in that area answer the most popular questions on video: http://youtube-global.blogspot.com/2010/04/youtube-team-to-respond-to-your.html . It's an opportunity to ask us anything you like relating to the subject at hand and to get to know many of the faces working at YouTube.\r\n\r\nOur first topic was partnerships, and there were 2,017 votes on 96 questions from 223 people. After reviewing your questions, rehearsing, applying a little more makeup than usual, and rehearsing some more (because we're not naturals at this like you are!), two members of our partnerships team -- Shenaz Zack, Product Manager, and Camille Hearst, Product Marketing Manager -- made this video response.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "partnerships",
+     "ivp",
+     "ypp",
+     "video",
+     "rentals",
+     "individual video partnership",
+     "youtube partner program"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Answers: Partnerships",
+     "description": "YouTube is a big place, but we're trying to make it feel a little bit smaller. That's why in April, we announced a new initiative in which you submit questions on a broad topic and then several employees who work in that area answer the most popular questions on video: http://youtube-global.blogspot.com/2010/04/youtube-team-to-respond-to-your.html . It's an opportunity to ask us anything you like relating to the subject at hand and to get to know many of the faces working at YouTube.\r\n\r\nOur first topic was partnerships, and there were 2,017 votes on 96 questions from 223 people. After reviewing your questions, rehearsing, applying a little more makeup than usual, and rehearsing some more (because we're not naturals at this like you are!), two members of our partnerships team -- Shenaz Zack, Product Manager, and Camille Hearst, Product Marketing Manager -- made this video response."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT4M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "146711",
+    "likeCount": "814",
+    "dislikeCount": "220",
+    "favoriteCount": "0",
+    "commentCount": "770"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/bJOFwSj6nH4p1t9xWWTjSmCARgI\"",
+   "id": "7vuKF0BpyDA",
+   "snippet": {
+    "publishedAt": "2014-05-29T07:01:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Birthday Karaoke Night",
+    "description": "To celebrate YouTube's ninth birthday this May, we invited some of our favorite performers to star in a mashup of memorable musical moments from the past nine years. \n\nWatch the behind-the-scenes here: http://youtu.be/m4cQF8gWYCI\n\nFEATURING\nThe Gregory Brothers: http://www.youtube.com/schmoyoho\nChester See http://youtube.com/chestersee\nCimorelli http://www.youtube.com/cimorellitheband\nSteve Kardynal http://www.youtube.com/SteveKardynal\nTay Zonday http://www.youtube.com/TayZonday\nMystery Guitar Man http://www.youtube.com/MysteryGuitarMan\nMadilyn Bailey http://www.youtube.com/MadilynBailey\nDavid Choi http://www.youtube.com/davidchoimusic\nMarie Digby http://www.youtube.com/MarieDigby\nAlex G http://www.youtube.com/AlexGMusic7\nTimothy DeLaGhetto http://www.youtube.com/TimothyDeLaGhetto2\n\nMUSIC\nChocolate Rain - http://youtu.be/EwTZ2xpQwpA\nBed Intruder Song - http://youtu.be/hMtZfW2z9dw\nHere It Goes Again - http://youtu.be/dTAAsCNK7RA\nFriday - http://youtu.be/kfVsfOSbJY0\nCall Me Maybe - http://youtu.be/fWNaR-rxAic\nCups (When I'm Gone) - http://youtu.be/cmSbXsFE3l8\nGangnam Style - http://youtu.be/9bZkp7q19f0\nMix by The Gregory Brothers - http://www.youtube.com/thegregorybrothers\n\nCredits featuring Nyan Cat - http://www.nyan.cat/\n\nVideo created by YouTube & Portal A - http://portal-a.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube Birthday",
+     "YouTube",
+     "Birthday",
+     "The Gregory Brothers (Musical Group)",
+     "Chester See",
+     "Cimorelli (Musical Artist)",
+     "Steve Kardynal",
+     "Tay Zonday (Musical Artist)",
+     "Mystery Guitar Man",
+     "YouTube Birthday Karaoke Night",
+     "2014"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Birthday Karaoke Night",
+     "description": "To celebrate YouTube's ninth birthday this May, we invited some of our favorite performers to star in a mashup of memorable musical moments from the past nine years. \n\nWatch the behind-the-scenes here: http://youtu.be/m4cQF8gWYCI\n\nFEATURING\nThe Gregory Brothers: http://www.youtube.com/schmoyoho\nChester See http://youtube.com/chestersee\nCimorelli http://www.youtube.com/cimorellitheband\nSteve Kardynal http://www.youtube.com/SteveKardynal\nTay Zonday http://www.youtube.com/TayZonday\nMystery Guitar Man http://www.youtube.com/MysteryGuitarMan\nMadilyn Bailey http://www.youtube.com/MadilynBailey\nDavid Choi http://www.youtube.com/davidchoimusic\nMarie Digby http://www.youtube.com/MarieDigby\nAlex G http://www.youtube.com/AlexGMusic7\nTimothy DeLaGhetto http://www.youtube.com/TimothyDeLaGhetto2\n\nMUSIC\nChocolate Rain - http://youtu.be/EwTZ2xpQwpA\nBed Intruder Song - http://youtu.be/hMtZfW2z9dw\nHere It Goes Again - http://youtu.be/dTAAsCNK7RA\nFriday - http://youtu.be/kfVsfOSbJY0\nCall Me Maybe - http://youtu.be/fWNaR-rxAic\nCups (When I'm Gone) - http://youtu.be/cmSbXsFE3l8\nGangnam Style - http://youtu.be/9bZkp7q19f0\nMix by The Gregory Brothers - http://www.youtube.com/thegregorybrothers\n\nCredits featuring Nyan Cat - http://www.nyan.cat/\n\nVideo created by YouTube & Portal A - http://portal-a.com"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT4M18S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2571324",
+    "likeCount": "19592",
+    "dislikeCount": "4190",
+    "favoriteCount": "0",
+    "commentCount": "1492"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/U1DWDu6PjZFCkeXi5YLSdtIuokI\"",
+   "id": "8OnfLEDAcB4",
+   "snippet": {
+    "publishedAt": "2010-01-12T01:43:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: All About HD",
+    "description": "\"Renown B-list Internet celebrity\" (and HD guru) Freddie Wong explains the ins and outs of HD video on YouTube.  Watch more Freddie here: http://www.youtube.com/freddiew",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube 101",
+     "freddie wong",
+     "freddiew",
+     "hd",
+     "1080p",
+     "780p",
+     "howto",
+     "resolution",
+     "better quality",
+     "video quality"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube 101: All About HD",
+     "description": "\"Renown B-list Internet celebrity\" (and HD guru) Freddie Wong explains the ins and outs of HD video on YouTube.  Watch more Freddie here: http://www.youtube.com/freddiew"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M35S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "529961",
+    "likeCount": "2356",
+    "dislikeCount": "235",
+    "favoriteCount": "0",
+    "commentCount": "1107"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/8Rud--mA-fgp_1CXhRt5CY3mHjg\"",
+   "id": "8sHVRC8rbw8",
+   "snippet": {
+    "publishedAt": "2011-09-14T13:52:32.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube First Europe & US MeetUp Livestream: Creator Hub & Playbook",
+    "description": "Live event in which our own Bing Chen will be leading a discussion on the Creator Hub and Ryan Nugent from YouTube's Audience Development team will be talking about the Creator Playbook, followed by a Q/A session.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8sHVRC8rbw8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8sHVRC8rbw8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8sHVRC8rbw8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Creator",
+     "Hub",
+     "Playbook",
+     "partner",
+     "tips",
+     "audience",
+     "development",
+     "partners",
+     "programming",
+     "production",
+     "tutorials",
+     "NextUp",
+     "publishing",
+     "community",
+     "social",
+     "media",
+     "livestream",
+     "meetup",
+     "virtual",
+     "best",
+     "practices",
+     "Europe",
+     "EMEA",
+     "US"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube First Europe & US MeetUp Livestream: Creator Hub & Playbook",
+     "description": "Live event in which our own Bing Chen will be leading a discussion on the Creator Hub and Ryan Nugent from YouTube's Audience Development team will be talking about the Creator Playbook, followed by a Q/A session."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT58M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "83370",
+    "likeCount": "85",
+    "dislikeCount": "78",
+    "favoriteCount": "0",
+    "commentCount": "236"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/qWfUjksTzABuYFEB8pLNk-385P8\"",
+   "id": "8sPUM6QnTOI",
+   "snippet": {
+    "publishedAt": "2014-12-09T18:00:05.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Rewind 2014: Behind the Scenes",
+    "description": "Behind the scenes of YouTube Rewind 2014, the epic mash-up celebrating the YouTube's cultural moments, videos, creators, songs, and memes, of 2014.\n\nWatch it again: http://youtu.be/zKx2B8WCQuw\nWatch the top videos of 2014: http://yt.be/rewind\n\n**\n\nProduced by David Iain Johnson and Jeffrey Sabin-Matsumoto\nEdited by Jake Keller\nStory Producer David Iain Johnson\nShot by Taylor Christoffel (NY), Brandon Kapelow (LA), Amin Mueller (UK), Tetsuro Imai (JP)\nRewind 2014 Created by YouTube and Portal A",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8sPUM6QnTOI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8sPUM6QnTOI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8sPUM6QnTOI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8sPUM6QnTOI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8sPUM6QnTOI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube rewind",
+     "youtuberewind",
+     "youtube rewind 2013",
+     "youtuberewind2013",
+     "youtube rewind 2012",
+     "youtuberewind2012",
+     "youtuberewind2011",
+     "youtube rewind 2011",
+     "youtube what does 2013 say",
+     "youtuberewindstyle",
+     "youtubewhatdoes2013say",
+     "rewind",
+     "rewindbehindthescenes",
+     "rewind behind the scenes",
+     "behindthescenes",
+     "behind the scenes",
+     "makingofyoutuberewind",
+     "making of youtube rewind"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Rewind 2014: Behind the Scenes",
+     "description": "Behind the scenes of YouTube Rewind 2014, the epic mash-up celebrating the YouTube's cultural moments, videos, creators, songs, and memes, of 2014.\n\nWatch it again: http://youtu.be/zKx2B8WCQuw\nWatch the top videos of 2014: http://yt.be/rewind\n\n**\n\nProduced by David Iain Johnson and Jeffrey Sabin-Matsumoto\nEdited by Jake Keller\nStory Producer David Iain Johnson\nShot by Taylor Christoffel (NY), Brandon Kapelow (LA), Amin Mueller (UK), Tetsuro Imai (JP)\nRewind 2014 Created by YouTube and Portal A"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT6M40S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "5018859",
+    "likeCount": "95967",
+    "dislikeCount": "1766",
+    "favoriteCount": "0",
+    "commentCount": "8020"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/368BHJCA4PNcsSwDkxGJHoWnbiU\"",
+   "id": "9ckE_S5Y5QM",
+   "snippet": {
+    "publishedAt": "2013-10-01T04:02:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Announcing the first-ever YouTube Music Awards",
+    "description": "Get ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared, and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Rio De Janeiro (City/Town/Village)",
+     "Spike Jonze (Music Video Director)",
+     "Trending Today",
+     "London (City/Town/Village)",
+     "Jason Schwartzman (Film Writer)",
+     "Music (Industry)",
+     "Seoul (City/Town/Village)",
+     "New York City (City/Town/Village)",
+     "Moscow (City/Town/Village)",
+     "YouTube Music Awards",
+     "YTMA",
+     "YouTube Awards (Award)",
+     "Music Awards",
+     "2013"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Announcing the first-ever YouTube Music Awards",
+     "description": "Get ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared, and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "10289152",
+    "likeCount": "6979",
+    "dislikeCount": "2134",
+    "favoriteCount": "0",
+    "commentCount": "2920"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/UWX6-HAgR2HTBT_xlOWGo0FLPMI\"",
+   "id": "9XhzMDVC97A",
+   "snippet": {
+    "publishedAt": "2010-09-10T18:02:19.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Please help the San Bruno fire victims",
+    "description": "Last night, a massive fire destroyed 53 homes in San Bruno, CA, the home of YouTube. Please do what you can to help the victims of the fire, by visiting http://bit.ly/donate-sanbrunofire",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "san bruno fire",
+     "donations",
+     "help",
+     "youtube"
+    ],
+    "categoryId": "29",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Please help the San Bruno fire victims",
+     "description": "Last night, a massive fire destroyed 53 homes in San Bruno, CA, the home of YouTube. Please do what you can to help the victims of the fire, by visiting http://bit.ly/donate-sanbrunofire"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "234777",
+    "likeCount": "389",
+    "dislikeCount": "341",
+    "favoriteCount": "0",
+    "commentCount": "859"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/irpWgQH1tZFTRN6ciygTg5qt2UE\"",
+   "id": "a7aqFB7lQbQ",
+   "snippet": {
+    "publishedAt": "2011-07-15T05:13:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Presents Jesse Eisenberg and Aziz Ansari",
+    "description": "YouTube Partner Ethan Newberry hosts Jesse Eisenberg and Aziz Ansari, stars of the movie 30 Minutes or Less at the YouTube headquarters to talk about their film answer fans questions.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "jesse eisenberg",
+     "aziz ansari",
+     "30 minutes or less",
+     "Sony Pictures"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Presents Jesse Eisenberg and Aziz Ansari",
+     "description": "YouTube Partner Ethan Newberry hosts Jesse Eisenberg and Aziz Ansari, stars of the movie 30 Minutes or Less at the YouTube headquarters to talk about their film answer fans questions."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT59M39S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "71730",
+    "likeCount": "468",
+    "dislikeCount": "91",
+    "favoriteCount": "0",
+    "commentCount": "186"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/nnbFmKOq2KGtegjUaR6yp-blPgs\"",
+   "id": "AbqT_ubkT0Y",
+   "snippet": {
+    "publishedAt": "2015-03-03T17:44:56.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "#DearMe - What Advice Would You Give Your Younger Self?",
+    "description": "**Share your advice by making your own #DearMe GIF at http://youtubedearme.com **\n\nIn celebration of International Women's Day, take part in YouTube’s global #DearMe initiative to inspire and empower young girls everywhere. We all know that growing up is tough. But if you could go back in time, what wisdom would you share with your teenage self? It all starts with two words. Dear Me. \n\nSpecial thanks to all the amazing women who participated in our video. Watch their #DearMe videos below. \n\nHannah Hart: http://youtu.be/QRIfb03IT90\nLaci Green: http://youtu.be/OgX0rWRQHS4\nFelicia Day: http://youtu.be/tegeQreTuNg\nMichelle Phan: https://www.youtube.com/user/MichellePhan\nLindsey Sterling: http://youtu.be/ju4mQX-kwN4\nLilly Singh: http://youtu.be/-fJPRxPaQbM\nIhascupcake: https://www.youtube.com/watch?v=K0gWgU17nYQ\nBunny Meyers: http://youtu.be/IaTj3DDFV6U\nHannah Witton: https://www.youtube.com/user/hannahgirasol\nMagali Vaz: http://youtu.be/oZkWOCLPtb4  \nBilingirl: http://youtu.be/hQpYyszmCQg\nIssa Rae: http://youtu.be/CmADPTQ8pCM\nRosianna Rojas: http://youtu.be/YPK-Z6a1chc\nChesca Leigh: http://youtu.be/rp9ne7dYqAM\nGigi Chao:  http://youtu.be/9Ejpn8fntHs\nLucy and Lydia: https://www.youtube.com/user/LucyAndLydia\nSherry Shroff: http://youtu.be/cDfowwGhb-w\nSasakiAsahi:https: https://www.youtube.com/watch?v=ekE9O7giMgc\nPixiwoo: https://www.youtube.com/user/pixiwoo\nRebecca Brown: https://www.youtube.com/user/beckie0\nGrace Helbig: http://youtu.be/IXvia8DyXiI\nBrittani Louis Taylor: http://youtu.be/zqzLC9w5Uhs\nAshley Sander: http://youtu.be/nK-mLWvE58M\nShruti Anand: http://youtu.be/LwboP-u_xQE\nNadine Sykora: http://youtu.be/HveiuMLrgZM",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AbqT_ubkT0Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AbqT_ubkT0Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AbqT_ubkT0Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AbqT_ubkT0Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AbqT_ubkT0Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "#DearMe",
+     "DearMe",
+     "Dear Me",
+     "female empowerment",
+     "girl empowerment",
+     "girl power",
+     "International Women's Day",
+     "Women's Day"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "#DearMe - What Advice Would You Give Your Younger Self?",
+     "description": "**Share your advice by making your own #DearMe GIF at http://youtubedearme.com **\n\nIn celebration of International Women's Day, take part in YouTube’s global #DearMe initiative to inspire and empower young girls everywhere. We all know that growing up is tough. But if you could go back in time, what wisdom would you share with your teenage self? It all starts with two words. Dear Me. \n\nSpecial thanks to all the amazing women who participated in our video. Watch their #DearMe videos below. \n\nHannah Hart: http://youtu.be/QRIfb03IT90\nLaci Green: http://youtu.be/OgX0rWRQHS4\nFelicia Day: http://youtu.be/tegeQreTuNg\nMichelle Phan: https://www.youtube.com/user/MichellePhan\nLindsey Sterling: http://youtu.be/ju4mQX-kwN4\nLilly Singh: http://youtu.be/-fJPRxPaQbM\nIhascupcake: https://www.youtube.com/watch?v=K0gWgU17nYQ\nBunny Meyers: http://youtu.be/IaTj3DDFV6U\nHannah Witton: https://www.youtube.com/user/hannahgirasol\nMagali Vaz: http://youtu.be/oZkWOCLPtb4  \nBilingirl: http://youtu.be/hQpYyszmCQg\nIssa Rae: http://youtu.be/CmADPTQ8pCM\nRosianna Rojas: http://youtu.be/YPK-Z6a1chc\nChesca Leigh: http://youtu.be/rp9ne7dYqAM\nGigi Chao:  http://youtu.be/9Ejpn8fntHs\nLucy and Lydia: https://www.youtube.com/user/LucyAndLydia\nSherry Shroff: http://youtu.be/cDfowwGhb-w\nSasakiAsahi:https: https://www.youtube.com/watch?v=ekE9O7giMgc\nPixiwoo: https://www.youtube.com/user/pixiwoo\nRebecca Brown: https://www.youtube.com/user/beckie0\nGrace Helbig: http://youtu.be/IXvia8DyXiI\nBrittani Louis Taylor: http://youtu.be/zqzLC9w5Uhs\nAshley Sander: http://youtu.be/nK-mLWvE58M\nShruti Anand: http://youtu.be/LwboP-u_xQE\nNadine Sykora: http://youtu.be/HveiuMLrgZM"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M5S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "4992493",
+    "likeCount": "47539",
+    "dislikeCount": "4191",
+    "favoriteCount": "0",
+    "commentCount": "6922"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/sBydTKLjwX80-Pe-IZqiuo8cp18\"",
+   "id": "aFBXYHnxH4w",
+   "snippet": {
+    "publishedAt": "2016-03-01T18:01:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Celebrating the artists, activists and creators of today | Keep Making History",
+    "description": "February is over, but black history isn’t stopping. Black voices are making history everyday and shaping the future. Join us in celebrating the artists, activists and creators of today who are making their mark on YouTube, and beyond.\n\nChannels featured:\nKid President: https://www.YouTube.com/soulpancake\nVice: https://www.YouTube.com/vice\nChescaleigh: https://www.YouTube.com/chescaleigh\nMatt Steffanina - https://www.youtube.com/user/MattSDance\nSwoozie: https://www.YouTube.com/swoozie06\nAmandla StenBerg: https://goo.gl/swKAne\nTre Melvin: https://goo.gl/dTSa5w\nWhiz Khalifa: https://www.YouTube.com/taylorgangent\nTodrick Hall: https://www.YouTube.com/todrickhall\nDowngoes Fraser: https://goo.gl/DlYcTY\nHartbeat: https://www.youtube.com/hartbeat\nSmoothiefreak:https://goo.gl/DlYcTY\nKat Blaque: https://www.YouTube.com/TransDIYer\nThe Mad Violinist & SCO: https://goo.gl/4z3GwJ\nForbes:https://www.YouTube.com/forbes\nIssa Rae: https://www.YouTube.com/actingrl112\nWHZGUD2: https://www.YouTube.com/WHZGUD2\nWilldaBeast Adams: https://www.YouTube.com/beast9688\nTianne King: https://www.YouTube.com/user/beautee132\nJackie Aina:  https://www.YouTube.com/lilpumpkinpie05\nShameless Maya: https://www.YouTube.com/shamelessmaya\nChevysway: https://goo.gl/jI5nFg\nApollo Hester: https://goo.gl/Gqx9ao\nTheThirdPew: https://www.youtube.com/user/TheThirdPew\nItsMyRayeRaye: https://goo.gl/94Hk1z\nFetty Wap: https://www.youtube.com/user/harlemfetty\nLa Guardia Cross: https://goo.gl/e6mCxD\nMarques Brownlee: https://goo.gl/bYzS36\nAll Def Digital: https://goo.gl/SsKT70\nTeala Dunn: https://goo.gl/qVRcYg\n\nAnd thanks to Admiral Michelle Howard and Sophina DeJesus for appearing in the video",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "black history",
+     "black history month",
+     "history",
+     "keep making history",
+     "black",
+     "making history",
+     "keep making",
+     "black voice"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Celebrating the artists, activists and creators of today | Keep Making History",
+     "description": "February is over, but black history isn’t stopping. Black voices are making history everyday and shaping the future. Join us in celebrating the artists, activists and creators of today who are making their mark on YouTube, and beyond.\n\nChannels featured:\nKid President: https://www.YouTube.com/soulpancake\nVice: https://www.YouTube.com/vice\nChescaleigh: https://www.YouTube.com/chescaleigh\nMatt Steffanina - https://www.youtube.com/user/MattSDance\nSwoozie: https://www.YouTube.com/swoozie06\nAmandla StenBerg: https://goo.gl/swKAne\nTre Melvin: https://goo.gl/dTSa5w\nWhiz Khalifa: https://www.YouTube.com/taylorgangent\nTodrick Hall: https://www.YouTube.com/todrickhall\nDowngoes Fraser: https://goo.gl/DlYcTY\nHartbeat: https://www.youtube.com/hartbeat\nSmoothiefreak:https://goo.gl/DlYcTY\nKat Blaque: https://www.YouTube.com/TransDIYer\nThe Mad Violinist & SCO: https://goo.gl/4z3GwJ\nForbes:https://www.YouTube.com/forbes\nIssa Rae: https://www.YouTube.com/actingrl112\nWHZGUD2: https://www.YouTube.com/WHZGUD2\nWilldaBeast Adams: https://www.YouTube.com/beast9688\nTianne King: https://www.YouTube.com/user/beautee132\nJackie Aina:  https://www.YouTube.com/lilpumpkinpie05\nShameless Maya: https://www.YouTube.com/shamelessmaya\nChevysway: https://goo.gl/jI5nFg\nApollo Hester: https://goo.gl/Gqx9ao\nTheThirdPew: https://www.youtube.com/user/TheThirdPew\nItsMyRayeRaye: https://goo.gl/94Hk1z\nFetty Wap: https://www.youtube.com/user/harlemfetty\nLa Guardia Cross: https://goo.gl/e6mCxD\nMarques Brownlee: https://goo.gl/bYzS36\nAll Def Digital: https://goo.gl/SsKT70\nTeala Dunn: https://goo.gl/qVRcYg\n\nAnd thanks to Admiral Michelle Howard and Sophina DeJesus for appearing in the video"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M34S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "288665",
+    "likeCount": "6384",
+    "dislikeCount": "1428",
+    "favoriteCount": "0",
+    "commentCount": "1590"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Yl0c205d6QYBHQlf3OW9A0sTw-k\"",
+   "id": "AnVmqgvV8ss",
+   "snippet": {
+    "publishedAt": "2013-05-20T21:06:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Hannibal Buress & Skrillex Gibberish Rap - The Big Live Comedy Show Highlights - YouTube Comedy Week",
+    "description": "Hannibal Buress performs the \"Gibberish Rap\" with surprise guests, including Skrillex! SUBSCRIBE TO HANNIBAL BURESS - http://youtube.com/HANNIBALBURESS \n\n----------------------------------------\u00ad\u00ad---------------------------------------\u00ad-\u00ad--\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Use #ComedyWeek (http://goo.gl/Yxb4E) and tweet @YouTube (http://twitter.com/youtube)\n\n----------------------------------------\u00ad\u00ad---------------------------------------\u00ad-\u00ad--\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Big Live Shelf",
+     "skrillex",
+     "ryan phillippe",
+     "hannibal buress",
+     "youtube comedy week",
+     "Blcs",
+     "comedy week",
+     "youtube"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Hannibal Buress & Skrillex Gibberish Rap - The Big Live Comedy Show Highlights - YouTube Comedy Week",
+     "description": "Hannibal Buress performs the \"Gibberish Rap\" with surprise guests, including Skrillex! SUBSCRIBE TO HANNIBAL BURESS - http://youtube.com/HANNIBALBURESS \n\n----------------------------------------\u00ad\u00ad---------------------------------------\u00ad-\u00ad--\n\nSUBSCRIBE to get YouTube Comedy Week posts from the YouTube Spotlight channel: http://yt.be/comedyweek/subscribe\n\nGOOGLE+: Use #ComedyWeek (http://goo.gl/4LXot) and follow +YouTube (http://plus.google.com/+YouTube)\nTWITTER: Use #ComedyWeek (http://goo.gl/Yxb4E) and tweet @YouTube (http://twitter.com/youtube)\n\n----------------------------------------\u00ad\u00ad---------------------------------------\u00ad-\u00ad--\n\nYouTube Comedy Week - May 19-25\nhttp://yt.be/comedyweek"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT5M",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "415789",
+    "likeCount": "5226",
+    "dislikeCount": "1430",
+    "favoriteCount": "0",
+    "commentCount": "1347"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/a-8FjYPPRzTtoBJ4KF_86HksV1s\"",
+   "id": "aOLTUYTkCCU",
+   "snippet": {
+    "publishedAt": "2016-04-01T07:23:43.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Crazy Mountain Biking POV in SnoopaVision",
+    "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk\n\nWelcome to SnoopaVision, a fully immersive experience that lets you watch any video on YouTube in 360 degrees, with Snoop Dogg.\n\nWatch more Snoop: https://www.youtube.com/westfesttv\nNew album \"High Definition\" dropping soon\n\nWatch more Vsauce: https://www.youtube.com/Vsauce\nWatch more Olga: https://www.youtube.com/olgakay\nWatch more Taryn: https://www.youtube.com/TarynSouthern\nWatch more H3H3: https://www.youtube.com/h3h3Productions\nOriginal video: https://www.youtube.com/watch?v=1v1RR8vCbnI",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aOLTUYTkCCU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aOLTUYTkCCU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aOLTUYTkCCU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aOLTUYTkCCU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aOLTUYTkCCU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Mountain Biking (Interest)",
+     "mountain biking tips",
+     "mountain bike",
+     "Bicycle (Product Category)",
+     "insane pov",
+     "crazy mountain biking",
+     "insane mountain biking",
+     "Snoop Dogg",
+     "Snoop Dog",
+     "Snoop",
+     "SnoopaVision",
+     "snoop vision",
+     "snoopvision",
+     "snoop-a-vision",
+     "snoop 360",
+     "snoopavision 360",
+     "snoop vision 360",
+     "snoopvision 360",
+     "Snoop VR",
+     "Snoop virtual reality",
+     "Snoop Dogg VR",
+     "April fools",
+     "Snoop April fools",
+     "Snoop Dogg April fools",
+     "YouTube April Fool",
+     "Olga K",
+     "Taryn Southern",
+     "H3H3",
+     "Vsauce"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Crazy Mountain Biking POV in SnoopaVision",
+     "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk\n\nWelcome to SnoopaVision, a fully immersive experience that lets you watch any video on YouTube in 360 degrees, with Snoop Dogg.\n\nWatch more Snoop: https://www.youtube.com/westfesttv\nNew album \"High Definition\" dropping soon\n\nWatch more Vsauce: https://www.youtube.com/Vsauce\nWatch more Olga: https://www.youtube.com/olgakay\nWatch more Taryn: https://www.youtube.com/TarynSouthern\nWatch more H3H3: https://www.youtube.com/h3h3Productions\nOriginal video: https://www.youtube.com/watch?v=1v1RR8vCbnI"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT1M1S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "360"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "797246",
+    "likeCount": "3088",
+    "dislikeCount": "228",
+    "favoriteCount": "0",
+    "commentCount": "261"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/bVbc5Cq_WbBB0sJkixgj8F4iqx0\"",
+   "id": "aWp3fpvrTBk",
+   "snippet": {
+    "publishedAt": "2006-11-20T06:56:13.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Re: One World",
+    "description": "A quick response from the office--some of us took this more seriously than others...\r\n\r\nMusic created in Garageband.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aWp3fpvrTBk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aWp3fpvrTBk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aWp3fpvrTBk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "MadV",
+     "One",
+     "world",
+     "word",
+     "hand",
+     "stand",
+     "statement",
+     "difference",
+     "community"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Re: One World",
+     "description": "A quick response from the office--some of us took this more seriously than others...\r\n\r\nMusic created in Garageband."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M7S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "65491",
+    "likeCount": "465",
+    "dislikeCount": "114",
+    "favoriteCount": "0",
+    "commentCount": "235"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ncn_jwklhVsxEoiFbWGfQBxXOKo\"",
+   "id": "awU8M3qVgZQ",
+   "snippet": {
+    "publishedAt": "2015-01-15T17:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Announcing The YouTube Interview with President Obama",
+    "description": "Watch the interview:  http://youtu.be/GbR6iQ62v9k\n\nYouTube creators Bethany Mota, GloZell and Hank Green interview President Obama about the top concerns facing them and their audiences. \n\nCreators ask you to share the questions you have for the president, some of which may be asked during the interview. Use #YouTubeAsksObama on social media to suggest issues that are important to you or any questions that are on your mind.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "President Barack Obama",
+     "White House",
+     "Interview",
+     "Bethany Mota",
+     "GloZell Green",
+     "Hank Green",
+     "#YouTubeAsksObama",
+     "State of the Union",
+     "speech",
+     "SOTU",
+     "POTUS",
+     "politics",
+     "government",
+     "policy",
+     "economy",
+     "environment",
+     "immigration",
+     "foreign policy",
+     "Barack Obama (US President)"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Announcing The YouTube Interview with President Obama",
+     "description": "Watch the interview:  http://youtu.be/GbR6iQ62v9k\n\nYouTube creators Bethany Mota, GloZell and Hank Green interview President Obama about the top concerns facing them and their audiences. \n\nCreators ask you to share the questions you have for the president, some of which may be asked during the interview. Use #YouTubeAsksObama on social media to suggest issues that are important to you or any questions that are on your mind."
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "1068231",
+    "likeCount": "7058",
+    "dislikeCount": "598",
+    "favoriteCount": "0",
+    "commentCount": "1077"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/og6JF7V_p5T1E1ZuNFfVIOPAp2E\"",
+   "id": "AX_my0K8WMA",
+   "snippet": {
+    "publishedAt": "2013-10-18T20:37:30.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Jake Coco and Mike Relm's Favorite 2013 Music Moment",
+    "description": "Jake and Mike reveal their favorite music moments of 2013.\n\nJake's channel: http://www.youtube.com/jakecoco\n\nMike's channel: http://www.youtube.com/relm\n\nRewind YouTube Style: http://www.youtube.com/watch?v=iCkYw3cRwLo\n\nYouTube Music Awards: http://www.youtube.com/musicawards\n\nGet ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Rio De Janeiro (City/Town/Village)",
+     "Spike Jonze (Music Video Director)",
+     "London (City/Town/Village)",
+     "Jason Schwartzman (Film Writer)",
+     "Music (Industry)",
+     "Seoul (City/Town/Village)",
+     "New York City (City/Town/Village)",
+     "Moscow (City/Town/Village)",
+     "YouTube Music Awards",
+     "YTMA",
+     "YouTube Awards (Award)",
+     "Music Awards",
+     "2013",
+     "jake coco",
+     "Mike Relm (Musical Artist)",
+     "rewind youtube style",
+     "twerking"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Music Awards - Jake Coco and Mike Relm's Favorite 2013 Music Moment",
+     "description": "Jake and Mike reveal their favorite music moments of 2013.\n\nJake's channel: http://www.youtube.com/jakecoco\n\nMike's channel: http://www.youtube.com/relm\n\nRewind YouTube Style: http://www.youtube.com/watch?v=iCkYw3cRwLo\n\nYouTube Music Awards: http://www.youtube.com/musicawards\n\nGet ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards.\n\nWe're launching a new music awards celebration, created by YouTube and Spike Jonze, and it will be entirely built by you. The nominees will be the artists and videos you watched, shared and loved the most over the past year. Then you decide who wins when we announce your nominees on October 21.\n\nPresented by Kia, the YouTube Music Awards will feature performances from Seoul, Moscow, London and Rio, culminating in a new type of awards show in New York, where your favorite artists create new music videos in real time, live on YouTube, on Sunday, November 3. \n\nStay tuned for the first-ever YouTube Music Awards."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "41442",
+    "likeCount": "331",
+    "dislikeCount": "246",
+    "favoriteCount": "0",
+    "commentCount": "122"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/nuXYThlKX1mHoT5wmrIRdbLjiSE\"",
+   "id": "b-BrLgCNyj4",
+   "snippet": {
+    "publishedAt": "2011-04-28T17:20:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Meet Maha aka LearnArabicwithMaha! YouTube Stars of Europe #2",
+    "description": "Watch more Maha! http://youtube.com/learnarabicwithmaha\r\n\r\nMeet Maha, an awesome YouTube producer from Italy, whose mission is to teach languages (while she teaches herself). She has a loyal and dedicated audience, who many times, end up teaching other people via YouTube, and sharing their progress with Maha via video.\r\n\r\nShot and Directed by Justin Johnson\r\nEdited by Giancarlo and Jon\r\n\r\nMusic by The Zax:\r\nhttp://thezax.com/\r\n\r\nRead more about the roadshow:\r\nhttp://youtube-global.blogspot.com/2011/03/become-youtube-star-in-europe.html\r\n\r\nOther Ways to Stay Up on All Things YouTube:\r\n- Official YouTube blog: http://www.youtube.com/blog\r\n- Twitter: http://twitter.com/youtube\r\n- Facebook: http://www.facebook.com/youtube\r\n- Meetup: http://www.meetup.com/YouTube\r\n- Creator's Corner: http://www.youtube.com/creatorscorner\r\n- News, politics & activism: http://www.citizentube.com\r\n\r\nThanks for watching! Have an awesome day!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b-BrLgCNyj4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b-BrLgCNyj4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b-BrLgCNyj4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/b-BrLgCNyj4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "LearnArabicWithMaha",
+     "Maha",
+     "Italy",
+     "Pisa",
+     "LeaningTower",
+     "Europe",
+     "Language",
+     "Teaching",
+     "Learning",
+     "JustinJohnson",
+     "EuropeanRoadshow",
+     "school",
+     "lesson",
+     "star"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Meet Maha aka LearnArabicwithMaha! YouTube Stars of Europe #2",
+     "description": "Watch more Maha! http://youtube.com/learnarabicwithmaha\r\n\r\nMeet Maha, an awesome YouTube producer from Italy, whose mission is to teach languages (while she teaches herself). She has a loyal and dedicated audience, who many times, end up teaching other people via YouTube, and sharing their progress with Maha via video.\r\n\r\nShot and Directed by Justin Johnson\r\nEdited by Giancarlo and Jon\r\n\r\nMusic by The Zax:\r\nhttp://thezax.com/\r\n\r\nRead more about the roadshow:\r\nhttp://youtube-global.blogspot.com/2011/03/become-youtube-star-in-europe.html\r\n\r\nOther Ways to Stay Up on All Things YouTube:\r\n- Official YouTube blog: http://www.youtube.com/blog\r\n- Twitter: http://twitter.com/youtube\r\n- Facebook: http://www.facebook.com/youtube\r\n- Meetup: http://www.meetup.com/YouTube\r\n- Creator's Corner: http://www.youtube.com/creatorscorner\r\n- News, politics & activism: http://www.citizentube.com\r\n\r\nThanks for watching! Have an awesome day!"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M13S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "300159",
+    "likeCount": "1836",
+    "dislikeCount": "270",
+    "favoriteCount": "0",
+    "commentCount": "779"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/-vXGXb37-qsa17MOncqEhfT6_DU\"",
+   "id": "B6jXPpqVPVI",
+   "snippet": {
+    "publishedAt": "2009-11-20T04:35:46.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Automatic Captions in YouTube Demo",
+    "description": "Watch this short demo to learn about machine-generated captions in YouTube and automatic timing for manually created caption tracks.\n(As you can see ASR is still a work in progress - but we have manually fixed captions,too)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "youtube",
+     "accessibility",
+     "captions",
+     "yt:cc=on"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Automatic Captions in YouTube Demo",
+     "description": "Watch this short demo to learn about machine-generated captions in YouTube and automatic timing for manually created caption tracks.\n(As you can see ASR is still a work in progress - but we have manually fixed captions,too)"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT2M35S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "34341",
+    "likeCount": "352",
+    "dislikeCount": "49",
+    "favoriteCount": "0",
+    "commentCount": "168"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Sr6kw2KMxv_qWp6W4mL9pV_OcjA\"",
+   "id": "b6tLq9AXwLk",
+   "snippet": {
+    "publishedAt": "2007-12-08T02:08:51.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Partner Program Expands",
+    "description": "Recognizing YouTube users for their creativity and their role in building YouTube is of the utmost importance to our team.  That's why earlier this year we launched a pilot of the YouTube Partner Program, our way of enabling some of the most popular and prolific original content creators within the YouTube community to earn money from their videos. These partners decide which of their videos they would like to generate revenue on YouTube, and in turn, they receive a portion of the revenue generated from ads that run next to those videos.  Even in this limited release, the program has been an amazing success -- already, millions of video views each week are earning revenue for our partners.\r\n\r\nBut we're just getting warmed up. Today we're announcing that we are expanding the YouTube Partner Program. Now, anyone living in the United States or Canada can apply to become a partner at www.youtube.com/partners.  (We're looking forward to rolling out the program to additional international markets soon.)\r\n\r\nWe feel it's important to reward our most dedicated community members: those who are regularly uploading original content to YouTube.  In evaluating applications, we will focus on the users who have built a significant audience on YouTube (as measured by video views, subscribers, etc.) and who consistently comply with the YouTube Terms of Use.\r\n\r\n\r\nWe previewed this new application process to a select group of users who previously expressed interest in becoming partners -- over 100 of these users have already been added to the program, such as tayzonday, hotforwords, apauledtv, and peteandbrian.\r\n\r\n\r\nAs always, our goal is to provide a forum for people to connect, inform and inspire others across the globe. We hope that by expanding the YouTube Partner Program, more content creators will reap rewards from their work and be able to produce even more of the original videos that have made YouTube so successful.\r\n\r\n\r\nUsers featured in this video:\r\nhttp://youtube.com/fallofautumndistro\r\nhttp://youtube.com/kenrg\r\nhttp://youtube.com/faintstarlite",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Partner",
+     "Program",
+     "Expands",
+     "Content",
+     "Partnership",
+     "Original",
+     "Videos"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Partner Program Expands",
+     "description": "Recognizing YouTube users for their creativity and their role in building YouTube is of the utmost importance to our team.  That's why earlier this year we launched a pilot of the YouTube Partner Program, our way of enabling some of the most popular and prolific original content creators within the YouTube community to earn money from their videos. These partners decide which of their videos they would like to generate revenue on YouTube, and in turn, they receive a portion of the revenue generated from ads that run next to those videos.  Even in this limited release, the program has been an amazing success -- already, millions of video views each week are earning revenue for our partners.\r\n\r\nBut we're just getting warmed up. Today we're announcing that we are expanding the YouTube Partner Program. Now, anyone living in the United States or Canada can apply to become a partner at www.youtube.com/partners.  (We're looking forward to rolling out the program to additional international markets soon.)\r\n\r\nWe feel it's important to reward our most dedicated community members: those who are regularly uploading original content to YouTube.  In evaluating applications, we will focus on the users who have built a significant audience on YouTube (as measured by video views, subscribers, etc.) and who consistently comply with the YouTube Terms of Use.\r\n\r\n\r\nWe previewed this new application process to a select group of users who previously expressed interest in becoming partners -- over 100 of these users have already been added to the program, such as tayzonday, hotforwords, apauledtv, and peteandbrian.\r\n\r\n\r\nAs always, our goal is to provide a forum for people to connect, inform and inspire others across the globe. We hope that by expanding the YouTube Partner Program, more content creators will reap rewards from their work and be able to produce even more of the original videos that have made YouTube so successful.\r\n\r\n\r\nUsers featured in this video:\r\nhttp://youtube.com/fallofautumndistro\r\nhttp://youtube.com/kenrg\r\nhttp://youtube.com/faintstarlite"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT48S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "78212",
+    "likeCount": "318",
+    "dislikeCount": "93",
+    "favoriteCount": "0",
+    "commentCount": "244"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/19S1wxx-iksH0Q0CR7ntBLRBFRQ\"",
+   "id": "B8oexSwCQfI",
+   "snippet": {
+    "publishedAt": "2013-10-22T06:55:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "How to Cast Your Vote for the YTMAs: Reggie Watts Explains",
+    "description": "Tune in on November 3 to the YouTube Music Awards, presented by Kia.\n\nThe YouTube Music Awards is all about you — the fans — and the artists and videos you love. The nominees were selected based purely on YouTube data from the last 12 months, and every time you watched, shared, liked, or subscribed, you helped determine the final list. Cast your vote NOW by searching for \"YTMA\" on YouTube, and share the official nomination videos on Google+, Facebook or Twitter. It's that easy.\n\nWatch co-host Reggie Watts explain it, and vote for your favorites now:\n\nYouTube Phenomenon recognizes the YouTube phenomena that generated the most fan videos you couldn't stop watching: http://www.youtube.com/playlist?list=PLbpi6ZahtOH7HM_ORv5HFqGSxnpygCAWW&feature=etp-pd-mau-41\n\nYouTube Breakthrough honors the music world's breakout new acts, based on artists with the biggest growth in views and subscribers: http://www.youtube.com/playlist?list=PLbpi6ZahtOH5N8QKp4ARfA0XF_qA0WOVY&feature=etp-pd-mau-41\n\nInnovation of the Year honors the most innovative use of YouTube amongst music videos, based on views, likes, shares and comments, plus input from an international panel of musicians, YouTubers, and creative luminaries: http://www.youtube.com/playlist?list=PLbpi6ZahtOH6jXccb3hrKt_oY299DoNyQ&feature=etp-pd-mau-41\n\nResponse of the Year honors the best fan remix, parody or response video, based on your views, shares, and comments on the top \"unofficial\" fan videos: http://www.youtube.com/playlist?list=PLbpi6ZahtOH733qzMtJyBRCnkwKs-0XeV&feature=etp-pd-mau-41\n\nVideo of the Year honors the world's most loved music videos, based what you watched, shared, and loved on YouTube over the last year: https://www.youtube.com/playlist?list=PLbpi6ZahtOH48pyWb1uwE6TC6NcdiIUF4&feature=etp-pd-mau-41\n\nArtist of the Year honors the acts YouTube fans have made stars, based on views, shares, likes, subscribers, and channel activity on YouTube over the last year: http://www.youtube.com/playlist?list=PLbpi6ZahtOH6Th2isZXlkvu1dN39xND1N&feature=etp-pd-mau-41",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Rio De Janeiro (City/Town/Village)",
+     "London (City/Town/Village)",
+     "Response of the Year",
+     "New York City (City/Town/Village)",
+     "Video of the Year",
+     "YouTube Awards (Award)",
+     "Artist of the Year",
+     "2013",
+     "YouTube Phenomenon",
+     "YouTube Music Awards",
+     "Innovation of the Year",
+     "Music Awards",
+     "Reggie Watts (Musical Artist)",
+     "YouTube Breakthrough",
+     "Moscow (City/Town/Village)",
+     "YTMA"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "How to Cast Your Vote for the YTMAs: Reggie Watts Explains",
+     "description": "Tune in on November 3 to the YouTube Music Awards, presented by Kia.\n\nThe YouTube Music Awards is all about you — the fans — and the artists and videos you love. The nominees were selected based purely on YouTube data from the last 12 months, and every time you watched, shared, liked, or subscribed, you helped determine the final list. Cast your vote NOW by searching for \"YTMA\" on YouTube, and share the official nomination videos on Google+, Facebook or Twitter. It's that easy.\n\nWatch co-host Reggie Watts explain it, and vote for your favorites now:\n\nYouTube Phenomenon recognizes the YouTube phenomena that generated the most fan videos you couldn't stop watching: http://www.youtube.com/playlist?list=PLbpi6ZahtOH7HM_ORv5HFqGSxnpygCAWW&feature=etp-pd-mau-41\n\nYouTube Breakthrough honors the music world's breakout new acts, based on artists with the biggest growth in views and subscribers: http://www.youtube.com/playlist?list=PLbpi6ZahtOH5N8QKp4ARfA0XF_qA0WOVY&feature=etp-pd-mau-41\n\nInnovation of the Year honors the most innovative use of YouTube amongst music videos, based on views, likes, shares and comments, plus input from an international panel of musicians, YouTubers, and creative luminaries: http://www.youtube.com/playlist?list=PLbpi6ZahtOH6jXccb3hrKt_oY299DoNyQ&feature=etp-pd-mau-41\n\nResponse of the Year honors the best fan remix, parody or response video, based on your views, shares, and comments on the top \"unofficial\" fan videos: http://www.youtube.com/playlist?list=PLbpi6ZahtOH733qzMtJyBRCnkwKs-0XeV&feature=etp-pd-mau-41\n\nVideo of the Year honors the world's most loved music videos, based what you watched, shared, and loved on YouTube over the last year: https://www.youtube.com/playlist?list=PLbpi6ZahtOH48pyWb1uwE6TC6NcdiIUF4&feature=etp-pd-mau-41\n\nArtist of the Year honors the acts YouTube fans have made stars, based on views, shares, likes, subscribers, and channel activity on YouTube over the last year: http://www.youtube.com/playlist?list=PLbpi6ZahtOH6Th2isZXlkvu1dN39xND1N&feature=etp-pd-mau-41"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT3M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2316537",
+    "likeCount": "3493",
+    "dislikeCount": "3019",
+    "favoriteCount": "0",
+    "commentCount": "1754"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/HseSCoV1VaDoMcGKlp1VDDXTZAY\"",
+   "id": "bITse42LpKA",
+   "snippet": {
+    "publishedAt": "2010-07-01T20:52:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Leanback",
+    "description": "YouTube Leanback is designed to start playing a personalized feed of videos in full screen and in high definition as soon as you launch it.  Sit back, relax and enjoy the show. http://www.youtube.com/leanback",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bITse42LpKA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bITse42LpKA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bITse42LpKA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bITse42LpKA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bITse42LpKA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "YouTube",
+     "Leanback",
+     "xl",
+     "videos",
+     "tv"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "YouTube Leanback",
+     "description": "YouTube Leanback is designed to start playing a personalized feed of videos in full screen and in high definition as soon as you launch it.  Sit back, relax and enjoy the show. http://www.youtube.com/leanback"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M54S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "457845",
+    "likeCount": "459",
+    "dislikeCount": "455",
+    "favoriteCount": "0",
+    "commentCount": "544"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/9xgmZk8FUIbi1PKwsT15O_i-FIg\"",
+   "id": "BiuEOSQU-WU",
+   "snippet": {
+    "publishedAt": "2016-04-01T07:25:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "When a Silverback Attacks in SnoopaVision",
+    "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk\n\nWelcome to SnoopaVision, a fully immersive experience that lets you watch any video on YouTube in 360 degrees, with Snoop Dogg.\n\nWatch more Snoop: https://www.youtube.com/westfesttv\nNew album \"High Definition\" dropping soon\n\nWatch more Smosh: https://www.youtube.com/smosh\nOriginal video: https://www.youtube.com/watch?v=KK67kaMWN-8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "tags": [
+     "Gorilla monkey chimp zoo Silverback Omaha Henry Doorly Zoo",
+     "Ape (Animal)",
+     "Monkey (Animal)",
+     "Primate (Animal)",
+     "Snoop Dogg",
+     "Snoop Dog",
+     "Snoop",
+     "SnoopaVision",
+     "snoop vision",
+     "snoopvision",
+     "snoop-a-vision",
+     "snoop 360",
+     "snoopavision 360",
+     "snoop vision 360",
+     "snoopvision 360",
+     "Snoop VR",
+     "Snoop virtual reality",
+     "Snoop Dogg VR",
+     "April fools",
+     "Smosh"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "When a Silverback Attacks in SnoopaVision",
+     "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk\n\nWelcome to SnoopaVision, a fully immersive experience that lets you watch any video on YouTube in 360 degrees, with Snoop Dogg.\n\nWatch more Snoop: https://www.youtube.com/westfesttv\nNew album \"High Definition\" dropping soon\n\nWatch more Smosh: https://www.youtube.com/smosh\nOriginal video: https://www.youtube.com/watch?v=KK67kaMWN-8"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "360"
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "878897",
+    "likeCount": "4331",
+    "dislikeCount": "481",
+    "favoriteCount": "0",
+    "commentCount": "536"
+   }
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/6ne7sYzZwORrHLQxhfoM5AqE8JU\"",
+ "prevPageToken": "CMgBEAE",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 248,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult", 
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/va2l2FVf9VgU9zVoriKpfBtjCoE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AX_my0K8WMA"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-18T20:37:30.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Jake Coco and Mike Relm's Favorite 2013 Music Moment",
+    "description": "Jake and Mike reveal their favorite music moments of 2013. Jake's channel: http://www.youtube.com/jakecoco Mike's channel: http://www.youtube.com/relm ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AX_my0K8WMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/9JLC2JCwOjXFyVtI0KPhN6QJ2AE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ysIb89ETWWA"
+   },
+   "snippet": {
+    "publishedAt": "2007-10-25T21:43:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Mobile",
+    "description": "A promotional video for YouTube mobile. Learn more at: http://www.youtube.com/mobile.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ysIb89ETWWA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ysIb89ETWWA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ysIb89ETWWA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/9IGhdQvfCJgiyD8PPh2CC17GcLM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "N1LtFh3uT44"
+   },
+   "snippet": {
+    "publishedAt": "2007-06-05T09:18:37.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Chad & Steve @ D5",
+    "description": "YouTube founders Chad Hurley and Steve Chen spoke at the Wall Street Journal's All Things Digital conference on Thursday May 31, 2007. All speakers have a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N1LtFh3uT44/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N1LtFh3uT44/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N1LtFh3uT44/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ssX4vOIdb8S-TUxi_7jriQcWJw0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yZNDj6TfSnw"
+   },
+   "snippet": {
+    "publishedAt": "2011-06-18T00:49:52.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Hangover: Get More into Movies on YouTube :30",
+    "description": "Visit http://www.youtube.com/movie/the-hangover?feature=dra or check out thousands of more movies at YouTube.com/movies. YouTube: Your place for video, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yZNDj6TfSnw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yZNDj6TfSnw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yZNDj6TfSnw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/-H7DGXOhrodWC-SOVvoSV3F-WHY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-cEzsCAzTak"
+   },
+   "snippet": {
+    "publishedAt": "2008-01-19T21:00:07.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Council Checks In",
+    "description": "http://www.youtube.com/blog?entry=uzcmpiyRJgQ They came, they saw, they conquered! During their visit to YouTube HQ in November, the Community Council ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-cEzsCAzTak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/TcwfGaO7KcrFR2QuHbRfwyYQbQo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ynEdFJyqx7E"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-22T03:32:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Get Ready for the YouTube Music Awards!",
+    "description": "Tune in on November 3 to the YouTube Music Awards, presented by Kia.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ynEdFJyqx7E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ynEdFJyqx7E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ynEdFJyqx7E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/FqSX6RxpHyB2QT_fwsxJXAhNGmc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "do6piTEkcxc"
+   },
+   "snippet": {
+    "publishedAt": "2011-06-28T00:02:48.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Partner MeetUp in New York City (June 16, 2011)",
+    "description": "The YouTube Partner MeetUp series is designed for YouTube Partners to network, collaborate, engage with the YouTube team, and pick up some new best ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/do6piTEkcxc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/do6piTEkcxc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/do6piTEkcxc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ctKs8TKOdUtkGXouXr2fOo2W4Qw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "j9sxd9jZsXw"
+   },
+   "snippet": {
+    "publishedAt": "2011-10-19T05:11:15.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Partner MeetUp Live Stream",
+    "description": "YouTube Partner MeetUp Live Stream from San Bruno featuring a YouTube Product update and Partner Support Talks with...TheWillofDC.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j9sxd9jZsXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j9sxd9jZsXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j9sxd9jZsXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/dztfleULfexeMwPxEJXyZqypwhk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4MLAe4RcVS4"
+   },
+   "snippet": {
+    "publishedAt": "2009-02-20T21:44:32.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Symphony Orchestra: Vote Now!",
+    "description": "http://youtube.com/symphony Vote for your favourite musician in the YouTube Symphony Orchestra. Voting period starts February 14th and ends February 22nd.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4MLAe4RcVS4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/l4Qsv_VwUQCdlLHI7sqHWdF6qYA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JV27jxYmN2w"
+   },
+   "snippet": {
+    "publishedAt": "2012-12-14T00:32:29.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The New YouTube Look",
+    "description": "Watch a discussion about YouTube's new look that rolled out on December 6th, 2012. You'll see the team that designed, and built, the update answer questions ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JV27jxYmN2w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JV27jxYmN2w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JV27jxYmN2w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/rHItDsLRXhl8H6x5ptG3x51ix7I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ve4_2TOPATY"
+   },
+   "snippet": {
+    "publishedAt": "2011-06-18T00:50:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Forgetting Sarah Marshall: Get More into Movies on YouTube :30",
+    "description": "Visit http://www.youtube.com/movie/Forgetting-Sarah-Marshall-Unrated?feature=dra or check out thousands of more movies at YouTube.com/movies. YouTube: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ve4_2TOPATY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ve4_2TOPATY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ve4_2TOPATY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/1nFjttOChyIYwYcHW9ds9irJX6s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HGeMGqVKD6A"
+   },
+   "snippet": {
+    "publishedAt": "1970-01-01T00:00:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Announces The Nominees For Best Video (Day 1)",
+    "description": "Every video uploaded over the past eight years is under consideration to win YouTube. Our presenters will be announcing all the nominees for 12 hours every ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HGeMGqVKD6A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HGeMGqVKD6A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HGeMGqVKD6A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/353G8KQhRwSjrhIPQa3M3IlYYrQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3VsWReBrfeg"
+   },
+   "snippet": {
+    "publishedAt": "2006-10-17T06:33:29.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "First Day in San Bruno",
+    "description": "Our first day in the San Bruno office. What a day it was.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3VsWReBrfeg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/IBGMeFTIaqmFvwW_aoU1BS9WBZw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eDiS1fThZos"
+   },
+   "snippet": {
+    "publishedAt": "2007-11-06T01:03:21.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Meet the Inaugural Community Council",
+    "description": "Today marks the first day of a new project aimed at better understanding the needs and wants of our users. The \"YouTube Community Council\" consists of a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eDiS1fThZos/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eDiS1fThZos/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eDiS1fThZos/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/jRtZhrg5tmiztbAfcz2g2v7WV08\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vGPySoQM9kc"
+   },
+   "snippet": {
+    "publishedAt": "2011-06-16T15:21:53.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Quick Tips for YouTube Success and more from YouTube Roadshow London 2011",
+    "description": "The 'Becoming YouTube Stars' Roadshow was organized in an effort to help producers, directors, writers, artists, video and media professionals of the future to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vGPySoQM9kc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vGPySoQM9kc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vGPySoQM9kc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/LeSLlmda-3VUHps_xlGVh03Jc8k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y7dpJ0oseIA"
+   },
+   "snippet": {
+    "publishedAt": "2007-05-22T19:23:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube",
+    "description": "The YouTube logo.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y7dpJ0oseIA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y7dpJ0oseIA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y7dpJ0oseIA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/WOiAOZgr7LecAHUOJiSeYKAStEY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0IX_od-yank"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-01T19:29:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "User Submission: Chicken High Five First Look #newtrends",
+    "description": "User UncleTerry (@Sean_ACIS) submitted this great idea for a new trend: Chicken High-Five. Our team of producers and writers created this demo to explain ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0IX_od-yank/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/VdO6MX3OEtQAWqOFwbXo0MLmgJk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "i8_2Br4Tgj8"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-02T03:41:07.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "User-Submission: Hawks Wheels First Look #newtrends",
+    "description": "The YouTube team has been getting so many great pitches for #newtrends, including this creative one from Ryan who suggested: \"hawks wheels and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i8_2Br4Tgj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i8_2Br4Tgj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i8_2Br4Tgj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/InLlzKc8MNJBjX6dsUqiDmd-70E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rfWXQxqkq1w"
+   },
+   "snippet": {
+    "publishedAt": "2011-04-16T00:05:19.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Digitour Livestream April 8th",
+    "description": "The Digitour presented live at Google. The Digitour is the first ever, large scale 6 week National tour bringing your favorite musicians to you! Find out more ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rfWXQxqkq1w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rfWXQxqkq1w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rfWXQxqkq1w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/qny1qmsyLlQBFKHpxnKIDaU5ZtU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mKIKeEG7SRI"
+   },
+   "snippet": {
+    "publishedAt": "2008-05-20T02:29:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube News - New Features For Search, Contacts and Inbox",
+    "description": "Hey 'Tubers, it's time for another round of site updates. We added some new features to improve searching for videos, inbox and managing your contacts on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mKIKeEG7SRI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mKIKeEG7SRI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mKIKeEG7SRI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

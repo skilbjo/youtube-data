@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/8u_tOrfpJ8OXQ8PCNH6cRzvLlrw\"",
+ "nextPageToken": "CJYBEAA",
+ "prevPageToken": "CGQQAQ",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 249,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/OcyvGWzA6pQTZm2AubJ6-Ulnpj0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FEyRza0rJyI"
+   },
+   "snippet": {
+    "publishedAt": "2010-02-18T00:12:33.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: How to Find What's Hot on YouTube",
+    "description": "This video explains how to tap into the cultural zeitgeist happening on YouTube right now. Made by http://www.youtube.com/mondostudiossf.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FEyRza0rJyI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FEyRza0rJyI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FEyRza0rJyI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ibDN7r1mWhqHx8Gc6wEOrqjOcgU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_XMcrtzGutA"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-21T02:20:12.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Comedy Gives Back Presents International Stand-Up Night - YouTube Comedy Week Live",
+    "description": "Matt Kirshen (http://youtube.com/ChannelMattKirshen), Rob Delaney, Rove McManus, and more perform on this night of stand-up with an international flair.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_XMcrtzGutA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_XMcrtzGutA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_XMcrtzGutA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Uta6P5s40YAicQHRThELdrseVn0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UAHDs83-YTc"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-08T16:59:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "#OwnYourVoice: Standing Up for Gender Equality",
+    "description": "This year, seven YouTube creators from around the world will be serving as Change Ambassadors in support of the United Nations Sustainable Development ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UAHDs83-YTc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UAHDs83-YTc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UAHDs83-YTc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/zM_tpnxAhqpJCVi0gbfkQJuDlP4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8OnfLEDAcB4"
+   },
+   "snippet": {
+    "publishedAt": "2010-01-12T01:51:47.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: All About HD",
+    "description": "\"Renown B-list Internet celebrity\" (and HD guru) Freddie Wong explains the ins and outs of HD video on YouTube. Watch more Freddie here: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8OnfLEDAcB4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/HtBmPzMmddVFFzBI_yhcFLksmI0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6jYw354P7eM"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-15T01:18:29.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Kina Grannis and Kurt Hugo Schneider's Favorite 2013 Music Moments",
+    "description": "Kurt Hugo Schneider and Kina Grannis reveal their favorite music moments from 2013. Kurt's channel: http://www.youtube.com/kurthugoschneider Kina's ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6jYw354P7eM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/LVGo6p3AVOqJljTqRuysC896DTA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pkWaWtqZHpg"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-15T18:42:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Sam Tsui and TJ Smith's Favorite 2013 Music Moments",
+    "description": "Sam and TJ step into our studio to reveal their favorite music moment from 2013. Sam's channel: http://www.youtube.com/thesamtsui TJ's channel: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pkWaWtqZHpg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pkWaWtqZHpg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pkWaWtqZHpg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/9zPjoLNNKqgsYbiABuLtZYYXYAo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B8oexSwCQfI"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-22T06:55:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "How to Cast Your Vote for the YTMAs: Reggie Watts Explains",
+    "description": "Tune in on November 3 to the YouTube Music Awards, presented by Kia. The YouTube Music Awards is all about you — the fans — and the artists and videos ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B8oexSwCQfI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/eWnS8WulfEfm3gEvQxJ_Vdyk7tU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zJOI3E4OdBw"
+   },
+   "snippet": {
+    "publishedAt": "2006-10-17T06:29:17.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Last Day in San Mateo",
+    "description": "Our last day in the San Mateo office (and at 3 Bees).",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zJOI3E4OdBw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zJOI3E4OdBw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zJOI3E4OdBw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/s3TXMlx-15Kamxi-t1sAHmLeNgc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "b6tLq9AXwLk"
+   },
+   "snippet": {
+    "publishedAt": "2007-12-08T02:11:33.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Partner Program Expands",
+    "description": "Recognizing YouTube users for their creativity and their role in building YouTube is of the utmost importance to our team. That's why earlier this year we ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b6tLq9AXwLk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/uw90m58jjyUrFAHLZgf7iohbEnQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SmnkYyHQqNs"
+   },
+   "snippet": {
+    "publishedAt": "2011-12-20T12:20:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Rewind 2011",
+    "description": "See what the world watched on YouTube in 2011 with YouTube Rewind: http://www.youtube.com/rewind Buy Avicii - Levels on Android Market ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SmnkYyHQqNs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SmnkYyHQqNs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SmnkYyHQqNs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/drXIWW99AT5WDtq_sjuA1UvIepQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OBeNcfwXja0"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-01T06:53:21.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Clocking First Look #newtrends",
+    "description": "Move over Planking, it's time for Clocking. Find out how YouTube created the popular new trend, and how you can do it yourself. For a sneak peek at what you'll ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OBeNcfwXja0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OBeNcfwXja0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OBeNcfwXja0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Os8BOy4MYJtO9lDH27yfz0BC_lk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GzYvVgK0GjE"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-08T04:06:37.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"I Knew You Were Trouble\" Wins the YouTube Phenomenon Award - Live at the YTMAs",
+    "description": "Taylor Swift wins at the first-ever YouTube Music Awards, and Cimorelli, some of the many fans who made \"I Knew You Were Trouble\" a YouTube Phenomenon, ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GzYvVgK0GjE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GzYvVgK0GjE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GzYvVgK0GjE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/KDDByUbJUwFutIQ6oxfag3ONWKE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BqHIeO0WAS0"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-22T05:27:27.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Tuesday Rundown (#2 of 6)",
+    "description": "START HERE: http://goo.gl/rteXz Tuesday's Comedy Week highlights featuring \"The Incredible Video Generating Comedy Lever\". WATCH TUESDAY'S ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BqHIeO0WAS0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BqHIeO0WAS0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BqHIeO0WAS0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/3Ps0uo820D32feDz-qq9oJM37R0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Sq_MsyZ7HME"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-24T03:22:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Thursday Rundown (#4 of 6)",
+    "description": "START HERE: http://goo.gl/5Ap61 The latest news and forecast from YouTube Comedy Week on Thursday. WATCH THURSDAY'S HIGHLIGHTS: DJ Play My ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Sq_MsyZ7HME/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Sq_MsyZ7HME/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Sq_MsyZ7HME/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ezNcpG2Uo9dF1x7FfZSalxYztb4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZCK2W4vSbgU"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-23T02:55:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Stand-Up Night - YouTube Comedy Week Live",
+    "description": "Check out the rising stars of the stand up comedy community, hosted by Sean O'Connor and featuring Jim Hamilton, Brody Stevens, Ron Funches ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZCK2W4vSbgU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZCK2W4vSbgU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZCK2W4vSbgU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/QBAL4f7BP79YU84XAkzgX116FjE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "r8SaU30MZVU"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Fake laughing\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Get ready for new videos from The Lonely Island. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r8SaU30MZVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r8SaU30MZVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r8SaU30MZVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/twAGU_IKUeD6LSbLT6-IarzdnKY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1xaKTFVRobc"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Oooh\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "The Lonely Island are Andy Samberg, Akiva Schaffer and Jorma Taccone. Oooh. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1xaKTFVRobc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/gk5cAKO7zee6YiZbPVUi_OeCC0Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Z93wR9BlwO8"
+   },
+   "snippet": {
+    "publishedAt": "2013-08-09T06:47:37.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Fan Friday Highlights with Felicia Day from Geek & Sundry (YouTube Geek Week)",
+    "description": "Fans take center stage for Fan Friday. People fans. Not ceiling fans. Hosted by Felicia Day from Geek & Sundry. Watch the playlist: http://goo.gl/G1T2hR ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z93wR9BlwO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z93wR9BlwO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z93wR9BlwO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/R_nLhP2YCZIluZQl_H1Tgl892GU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9XhzMDVC97A"
+   },
+   "snippet": {
+    "publishedAt": "2010-09-10T18:06:59.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Please help the San Bruno fire victims",
+    "description": "Last night, a massive fire destroyed 53 homes in San Bruno, CA, the home of YouTube. Please do what you can to help the victims of the fire, by visiting ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9XhzMDVC97A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/grfpWl1B02ufwdNdqtyD6QjQvek\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zhsgnH6fsJM"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-02T22:53:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Who will win?\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Ryan Higa, Rainn Wilson, and Grace Helbig backstage. See what they're up to May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zhsgnH6fsJM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zhsgnH6fsJM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zhsgnH6fsJM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/IRZZqJHasF2wpApCk9OPAeC5vpk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PgPhbKmHTOs"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-07T21:01:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Advice\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Sarah Silverman from JASH, Jake and Amir from CollegeHumor... and you. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PgPhbKmHTOs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PgPhbKmHTOs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PgPhbKmHTOs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Eudu_L31ZvERhQGJNhCJO-Gpzgw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6s-M6hfk9Ro"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Seven straight days\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "On the phone with The Lonely Island and Sarah Silverman from JASH. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6s-M6hfk9Ro/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/T78AftRjUe97HbNOxkAhlfOIEPY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iZZApfdRwYI"
+   },
+   "snippet": {
+    "publishedAt": "2010-02-05T01:24:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Search & Browse",
+    "description": "How to search and browse on YouTube -- breathless running not required. Made by http://www.youtube.com/user/jonathancnowak.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iZZApfdRwYI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iZZApfdRwYI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iZZApfdRwYI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/LDqAei9_hxDd45cufmMmk0qVNCA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lKkkXInTjNo"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-17T04:19:15.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Night 12/16 - 7pm PT / 10pm ET",
+    "description": "YouTube Music Night is a celebration of the year in music on YouTube. Featuring performances from some of the most well known artists on the platform. Join in ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lKkkXInTjNo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lKkkXInTjNo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lKkkXInTjNo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/CXCga3rDIWqNqCeHsKmS7dTT-BU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bYzFxFP6Ygo"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-02T22:53:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Rap\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "What happens when Harley from Epic Meal Time meets EpicLLOYD from Epic Rap Battles of History? Find out May 19-25: YouTube Comedy Week ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bYzFxFP6Ygo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bYzFxFP6Ygo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bYzFxFP6Ygo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/g4oClH_1O9MCX8xkpoqo35dwDYM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5Qm4sM8BPCs"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-06T19:06:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "DeStorm \"See Me Standing\" Wins Innovation of the Year - Live at the YTMAs",
+    "description": "DeStorm accepts the Innovation of the Year Award for \"See Me Standing,\" featuring OK Go, live from the YTMAs on November 3. Presented by Kia. Hosted by ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5Qm4sM8BPCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/O8b8XpirZJ-1Lcm9DDrzKUc8_Aw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "InzDjH1-9Ns"
+   },
+   "snippet": {
+    "publishedAt": "2011-03-25T00:54:19.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Copyright School",
+    "description": "Russell learns some valuable lessons about copyright.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/InzDjH1-9Ns/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/InzDjH1-9Ns/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/InzDjH1-9Ns/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/aigwMDTen-4KWQSM2o9uwXdTzec\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kwitoR51R-k"
+   },
+   "snippet": {
+    "publishedAt": "2010-12-16T18:23:36.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Introducing YouTube Trends (Feat. The Gregory Brothers)",
+    "description": "Visit http://www.youtube.com/trends for daily insight on the latest video trends. Tired of not knowing the latest hot videos and trends on YouTube? YouTube ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kwitoR51R-k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kwitoR51R-k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kwitoR51R-k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/U-1wBElO8I0L2TOc0ZDt--a_wpU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kngOOe37OBA"
+   },
+   "snippet": {
+    "publishedAt": "2012-04-18T18:28:54.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Audio Editing on YouTube",
+    "description": "Replace your video's soundtrack for free with a song from our library of thousands of tracks. To try it out, go to your Video Manager, select Edit, select ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kngOOe37OBA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kngOOe37OBA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kngOOe37OBA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/m8Gsv7wz__kmenIyM2k3qDvyjRk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gkI3e0P3S5E"
+   },
+   "snippet": {
+    "publishedAt": "2010-02-09T23:05:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Safety Mode Demo",
+    "description": "How to opt in to Safety Mode and how it works.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gkI3e0P3S5E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gkI3e0P3S5E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gkI3e0P3S5E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/vAdSAe9wEyGXREcrJ-db-aEdSWo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5z3cI0NnKN0"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-20T04:01:21.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Big Live Comedy Show - YouTube Comedy Week",
+    "description": "Watch as Comedy Week kicks off with an all-star show featuring live performances and video debuts from some of the top names in comedy! Starring: SARAH ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5z3cI0NnKN0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/XL6au11wRsPEJkBIv6xMsS2YC3Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_sSV_sW1IKU"
+   },
+   "snippet": {
+    "publishedAt": "2011-12-02T01:49:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Denis Lee apresenta: regras do YouTube NextUp",
+    "description": "O YouTube NextUp está chegando no Brasil e o Denis Lee explica quais são as regras do programa. Não se esqueça de ler todo o regulamento antes de ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_sSV_sW1IKU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_sSV_sW1IKU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_sSV_sW1IKU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Z2vzqwJFmCQ-Y4kIZsr20X_c9YQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ue4CkhU3AGk"
+   },
+   "snippet": {
+    "publishedAt": "2010-11-11T00:52:56.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Topics: An Exploration",
+    "description": "Have you ever come to YouTube and not known what to watch? This is a concept video that shows you how we are thinking about this issue. We actually used ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ue4CkhU3AGk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ue4CkhU3AGk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ue4CkhU3AGk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/xCj0hE9g2Lo7MiaetE90iCi-nnk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G-n9p28Yh8w"
+   },
+   "snippet": {
+    "publishedAt": "2011-09-09T19:26:57.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Edit your videos with YouTube",
+    "description": "You can now edit uploaded videos with YouTube. Just upload them as usual and press the \"Edit Video\" button to begin editing.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G-n9p28Yh8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G-n9p28Yh8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G-n9p28Yh8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/nqQBMtEdTrfeoMo7pos05c8qizw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-C1ieLGok40"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-01T06:53:12.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Glub Glub First Look #newtrends",
+    "description": "\"The Glub Glub Water Dance\" is already turning into a viral megahit. Get in on the dance craze yourself by uploading your own Water Dance videos. Official Glub ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-C1ieLGok40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/EJlYQBraj9xK1Xb6fUfo-BdqJV8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "c5x4V1s1Zao"
+   },
+   "snippet": {
+    "publishedAt": "2011-05-07T07:55:55.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Learn more about movies on YouTube",
+    "description": "Visit http://YouTube.com/movies to start watching now. A simple video showing the basics of how to get more into movies on YouTube. In addition to the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c5x4V1s1Zao/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c5x4V1s1Zao/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c5x4V1s1Zao/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/aYJQAfx9jPql9ay1CGZFBkvB8-E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wVIkBcx33_c"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-08T14:31:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Exquisite\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Get ready for new videos from The Lonely Island. Join in May 19-25 for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wVIkBcx33_c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wVIkBcx33_c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wVIkBcx33_c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/cqdskrayaGgHyWqvOBD2BJsxYDk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_X-jSkrqYzk"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-02T05:12:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "You've made our #newtrends a hit!",
+    "description": "Our 2014 memes and trends are already SO VIRAL thanks to your participation and incredible suggestions. And our trends production team is JUST getting ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_X-jSkrqYzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_X-jSkrqYzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_X-jSkrqYzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/5OJ-Jw3Lh0S20syyEivs_7W3zFo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yXBPbnv1H-U"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-06T04:56:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The First-Ever YouTube Music Awards (YTMA)",
+    "description": "Missed them live? You're in luck. On Sunday, November 3 at Pier 36 in New York City, YouTube hosted the inaugural YouTube Music Awards, a celebration of ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yXBPbnv1H-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yXBPbnv1H-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yXBPbnv1H-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/vXMpiDpi5BFf6E2H179ahuAT1tY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "x0MnuF9zRx4"
+   },
+   "snippet": {
+    "publishedAt": "2010-04-05T17:37:27.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Take a tour of the new video page",
+    "description": "To provide feedback on the new look and functionality, please fill out this survey: https://survey.googleratings.com/wix/p4095212.aspx.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x0MnuF9zRx4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x0MnuF9zRx4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x0MnuF9zRx4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/f0GWGBsS7BoWbBEtgzz5ml_Dvc8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IOfliHBs2Vo"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-15T23:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Taryn Southern and Chester See's Favorite 2013 Music Moments",
+    "description": "Taryn and Chester let you know their favorite moments in music in 2013 Taryn's channel: http://www.youtube.com/tarynsouthern Chester's channel: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IOfliHBs2Vo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IOfliHBs2Vo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IOfliHBs2Vo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Vehvn29oLUdWfsUsbEkkXEs-ByM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-m_S-IDs3Wg"
+   },
+   "snippet": {
+    "publishedAt": "2013-07-24T06:58:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Geek Week, Find Your Channels",
+    "description": "Find your channels during YouTube Geek Week, see what you missed at http://yt.be/geekweek SUBSCRIBE to get YouTube Geek Week posts from the YouTube ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-m_S-IDs3Wg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/5Ng4nK5ay7Jj-9Gm93gulcLUwlA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EniVSP8HTjQ"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-20T13:00:02.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Music Awards - Alex G and Tyler Ward's Favorite 2013 Music Moments",
+    "description": "Alex and Tyler drop into our studio to share their favorite music moments of 2013. Alex's channel: http://www.youtube.com/alexg Tyler's channel: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EniVSP8HTjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EniVSP8HTjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EniVSP8HTjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/04N77vxLy-oP3Oe5GDwhxPnkb5s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Px8mYugJ3F4"
+   },
+   "snippet": {
+    "publishedAt": "2013-12-11T07:55:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Interactive Timeline: YouTube Rewind 2010 (Global)",
+    "description": "Rewind through the defining moments of 2010 on YouTube month by month in this interactive timeline. Click on the thumbnails to watch the original videos and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Px8mYugJ3F4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Px8mYugJ3F4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Px8mYugJ3F4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/AkzCuMz1S1_wjMvN7dhKUVuFw6A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5ANcspdYh_U"
+   },
+   "snippet": {
+    "publishedAt": "2009-07-22T01:44:10.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube in 3D",
+    "description": "A message from software engineer Peter Bradshaw. Tag your video with yt3d:enable=true to enable the pulldown menu of 3D-viewing options. For more info, go ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5ANcspdYh_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ODJuUdiDFMWP3Vf25la5DYsaQWc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2nGW7-zbysc"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-25T03:29:48.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Set List Live and Music Night - YouTube Comedy Week Live",
+    "description": "Part I -- Set List Live: What happens when comedians are forced to throw out the notes and riff on subjects they see at the same time the audience does?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2nGW7-zbysc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/jGJf0hs5qx-zZFB8H7N9Pb0OMS4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GchctYX9i2o"
+   },
+   "snippet": {
+    "publishedAt": "2011-12-02T01:28:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "PC Siqueira pergunta: É você a próxima estrela do YouTube?",
+    "description": "PC Siqueira pergunta: é você a próxima estrela do YouTube? O YouTube está lançando no Brasil o YouTube NextUp, um concurso para premiar 10 parceiros ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GchctYX9i2o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GchctYX9i2o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GchctYX9i2o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/f8FKB-62zO76Hd8rZ1dXIP2wegk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ido8s_vGqcM"
+   },
+   "snippet": {
+    "publishedAt": "2013-12-11T07:55:23.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Defining Moments of 2013 (Interactive YouTube Rewind Timeline)",
+    "description": "CHOOSE a theme to jump to those videos... WATCH the trending videos of the year here: http://yt.be/rewind START the playlist here: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ido8s_vGqcM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ido8s_vGqcM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ido8s_vGqcM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Oj0sNwt6gpTITgDq-qRoC-zNM0I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cw-NILysH1w"
+   },
+   "snippet": {
+    "publishedAt": "2009-06-24T19:58:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Channels 2.0",
+    "description": "A brief overview of the new YouTube channel redesign, including: - Examples of channels with new design - Summary of new design - The brand new video ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cw-NILysH1w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cw-NILysH1w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cw-NILysH1w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/a0qYrnSZY-imRYWghJFtliqU07M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nmi8OU5aqpA"
+   },
+   "snippet": {
+    "publishedAt": "2011-04-20T14:44:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Meet Sami aka HerrTutorial! YouTube Stars of Europe #1",
+    "description": "Music by The Zax: http://thezax.com/ Meet Sami, a beauty/lifestyle vlogger and one of the biggest YouTube stars in Germany! We spent a day with him, and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nmi8OU5aqpA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nmi8OU5aqpA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nmi8OU5aqpA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

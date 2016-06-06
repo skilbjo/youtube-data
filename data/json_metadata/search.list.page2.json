@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/7KUxxH-fUlD_4QXt6MIib7CrH9s\"",
+ "nextPageToken": "CGQQAA",
+ "prevPageToken": "CDIQAQ",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 249,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Jray4ghA4Z5TRJaSR5bXBsYaFlQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "P9T4jNP0QVU"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-07T21:01:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"The Shoot\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "This is the extended cut of our YouTube Comedy Week trailer. Comedy is coming together, join in May 19-25 http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/P9T4jNP0QVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/P9T4jNP0QVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/P9T4jNP0QVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/tvgP59VeQ0RLEugTVzwhNURbaDk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V51a9EB6D8c"
+   },
+   "snippet": {
+    "publishedAt": "2011-03-17T22:55:11.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Answers: Building an Audience",
+    "description": "Partner Manager Margaret Healy offers some tips on growing your audience on YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V51a9EB6D8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V51a9EB6D8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V51a9EB6D8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/fCllEpeA68WjqRXddEUxDvfmWnA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Nu9lfiJoxZ8"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-20T21:05:54.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Lonely Island - The Big Live Comedy Show Highlights - YouTube Comedy Week",
+    "description": "The Lonely Island (Andy Samberg, Akiva Schaffer and Jorma Taccone) perform their song \"Spring Break Anthem,\" featuring T-Pain.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Nu9lfiJoxZ8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Nu9lfiJoxZ8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Nu9lfiJoxZ8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/n0BuCB1EnFMwYHIO-Do4VkyDqf8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7vuKF0BpyDA"
+   },
+   "snippet": {
+    "publishedAt": "2014-05-29T07:01:00.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Birthday Karaoke Night",
+    "description": "To celebrate YouTube's ninth birthday this May, we invited some of our favorite performers to star in a mashup of memorable musical moments from the past ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7vuKF0BpyDA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/OlANlYr_8Xne0rjw87MVl74-Ibg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NpKuDCj83zM"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-21T14:53:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Monday Rundown (#1 of 6)",
+    "description": "START HERE: http://goo.gl/tw5ai Marc and Todd from The Key of Awesome and Harley from EMT tells you what you're going to watch this Comedy Week.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NpKuDCj83zM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NpKuDCj83zM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NpKuDCj83zM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/y9Njxl-G7hlFXsFhQBzxIt7aALE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IWIWSQa9JZU"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-19T20:14:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Welcome to YouTube Comedy Week",
+    "description": "Welcome to Comedy Week http://yt.be/comedyweek ---------------------------------------------------------------------------------- SUBSCRIBE to get YouTube Comedy Week ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IWIWSQa9JZU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IWIWSQa9JZU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IWIWSQa9JZU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/wBWdNY2_FG7fhGuMbwEXDL0QQ1g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V47pFY9K4eg"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-01T07:25:14.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Webcam 101 for Seniors in SnoopaVision",
+    "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk Welcome to SnoopaVision, a fully immersive experience that lets you watch any video on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V47pFY9K4eg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V47pFY9K4eg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V47pFY9K4eg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/UaQ8Iq9rz6cJUmclT9CCq35_zR4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "c56pD6pbUr8"
+   },
+   "snippet": {
+    "publishedAt": "2010-06-16T21:38:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Editing in the cloud: Meet the YouTube Video Editor",
+    "description": "This video offers a quick tutorial on how to use the YouTube VIdeo Editor: http://www.youtube.com/editor Video editing usually requires installing software ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c56pD6pbUr8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c56pD6pbUr8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c56pD6pbUr8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/W-WgAHp-HJryvNJ-7Ckx2OOVYJE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SeTbIkCE9uI"
+   },
+   "snippet": {
+    "publishedAt": "2010-01-12T01:58:58.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: HD Software Tutorial",
+    "description": "HD guru Freddie Wong -- http://www.youtube.com/freddiew -- shows you how to upload your video in HD using some of the more common editing programs.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SeTbIkCE9uI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SeTbIkCE9uI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SeTbIkCE9uI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/wSNt032to7-bcnOU4mUnFFpfsPE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DZfCPEn6L6g"
+   },
+   "snippet": {
+    "publishedAt": "2009-12-12T01:10:18.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Easy Video Project Ideas",
+    "description": "Wanna create your own video and need some inspiration? Here are some creative ideas that could work for anyone, gathered from and inspired by the YouTube ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DZfCPEn6L6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DZfCPEn6L6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DZfCPEn6L6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Z8DZY47Fzu5vW24btITy32IqxFY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ojqWclLQOxk"
+   },
+   "snippet": {
+    "publishedAt": "2010-03-05T06:22:52.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "This Is YouTube",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ojqWclLQOxk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ojqWclLQOxk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ojqWclLQOxk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/lnW4sQS_hyZrKX1ptkfvJqt1OP0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YZsMgrxGaMA"
+   },
+   "snippet": {
+    "publishedAt": "2009-05-29T01:33:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Michael Buckley's Secrets to YouTube Success",
+    "description": "In his own words, YouTube star Michael Buckley (http://www.youtube.com/buck) explains how he manages to make a six-figure salary through YouTube.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YZsMgrxGaMA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YZsMgrxGaMA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YZsMgrxGaMA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/t_CzMb-miXdmcT3xZ-O9iBiBY-Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QRS8MkLhQmM"
+   },
+   "snippet": {
+    "publishedAt": "2008-09-22T15:34:33.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Captions and Subtitles",
+    "description": "Add multiple captions or subtitle tracks to your videos! About captions and subtitles feature http://www.youtube.com/t/captions_about English script can be found ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QRS8MkLhQmM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QRS8MkLhQmM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QRS8MkLhQmM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/tAfVBaNiLnBLVeZao1BhcMiBzIM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TL-S5C5U-XA"
+   },
+   "snippet": {
+    "publishedAt": "2010-01-04T21:02:44.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Private Sharing",
+    "description": "The Ninja explains how to use YouTube's private sharing options. Video by http://www.youtube.com/user/digitalfilmmaker.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TL-S5C5U-XA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TL-S5C5U-XA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TL-S5C5U-XA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/_kN83HR-vdjexnTY7pLhOo-9ZMo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "q3lX5xtsA28"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-25T01:23:03.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Friday Rundown (#5 of 6)",
+    "description": "START HERE: http://goo.gl/VnP8A Friday's Comedy Week highlights with Toby Turner, a.k.a. TOBUSCUS! WATCH FRIDAY'S HIGHLIGHTS: Annoying Orange ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q3lX5xtsA28/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q3lX5xtsA28/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q3lX5xtsA28/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Ur7q3LdTr9N9d9C0tUwesnciVME\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DTCmHC8IuuI"
+   },
+   "snippet": {
+    "publishedAt": "2012-12-18T04:50:53.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Interactive Timeline: YouTube Rewind 2012 (Global)",
+    "description": "Rewind through the defining moments of 2012 on YouTube month by month in this interactive timeline. Click on the thumbnails to watch the original videos and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DTCmHC8IuuI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DTCmHC8IuuI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DTCmHC8IuuI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Xi3KpxCGoUzsFC0RUt3b2R95tas\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "M3l6mM3qVzk"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-01T07:23:16.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The Ice-Cream Van in SnoopaVision",
+    "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk Welcome to SnoopaVision, a fully immersive experience that lets you watch any video on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M3l6mM3qVzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M3l6mM3qVzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M3l6mM3qVzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Lfc7wxrHCCJrLTZqJXtZVkxxyx0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IlE8q3hmMdY"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-08T04:06:19.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Lindsey Stirling and Pentatonix Win Response of the Year at the YTMAs",
+    "description": "\"Lindsey Stirling and Pentatonix accept the Response of the Year Award live from the YTMAs on November 3. Presented by Kia. Hosted by Jason Schwartzman ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IlE8q3hmMdY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IlE8q3hmMdY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IlE8q3hmMdY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/gagbUophv0WJ3rHZX4w1xL6VJXs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B6jXPpqVPVI"
+   },
+   "snippet": {
+    "publishedAt": "2009-11-20T05:14:37.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Automatic Captions in YouTube Demo",
+    "description": "Watch this short demo to learn about machine-generated captions in YouTube and automatic timing for manually created caption tracks. (As you can see ASR is ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B6jXPpqVPVI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/uWtwAnnzw83L6FsDDMyCWiy8PJA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hvQHkBOs1JI"
+   },
+   "snippet": {
+    "publishedAt": "2011-03-31T18:01:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Flugelhorn Feline",
+    "description": "Our favorite musician makes his opinion known on the subject at hand. See the top 5 viral films from 1911: http://www.youtube.com/watch?v=CNm8ZCJ7Fx8 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hvQHkBOs1JI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hvQHkBOs1JI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hvQHkBOs1JI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/P7turBxZ3hoIqgp5j3bOn3HfYyE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AnVmqgvV8ss"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-20T21:06:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Hannibal Buress & Skrillex Gibberish Rap - The Big Live Comedy Show Highlights - YouTube Comedy Week",
+    "description": "Hannibal Buress performs the \"Gibberish Rap\" with surprise guests, including Skrillex! SUBSCRIBE TO HANNIBAL BURESS ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AnVmqgvV8ss/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/7s1OS4V8PXP2BxyXbTskw4IvYrI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "v9Qiwzgkxhw"
+   },
+   "snippet": {
+    "publishedAt": "2006-02-10T05:35:27.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Hammer Time!",
+    "description": "Things are really picking up around here. Not only are we adding servers and bandwidth as fast as we can, we're also pleased to report that last month's kitchen ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v9Qiwzgkxhw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v9Qiwzgkxhw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v9Qiwzgkxhw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/3tkmunzJYGqEFscYHJhUhfE4Q0k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jqpSwJw7SEo"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-22T23:51:47.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Wednesday Rundown (#3 of 6)",
+    "description": "START HERE: http://goo.gl/EdYYK Wednesday's Comedy Week highlights featuring InterviewTube with Rhett & Link. WATCH WEDNESDAY'S HIGHLIGHTS: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jqpSwJw7SEo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jqpSwJw7SEo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jqpSwJw7SEo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/JWU5VYADvtIION9qYMBZg4PF-28\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NykI2cJ9o80"
+   },
+   "snippet": {
+    "publishedAt": "2010-01-12T01:50:27.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Customizing Your Channel",
+    "description": "This is the incredible true story of how to customize your channel. Made by http://www.youtube.com/antfarmhollywood.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NykI2cJ9o80/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NykI2cJ9o80/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NykI2cJ9o80/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/WhtTAfcN_PGzTnYmNYmKVOR4s8Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GGT8ZCTBoBA"
+   },
+   "snippet": {
+    "publishedAt": "2010-07-06T21:42:09.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Introducing the New YouTube Mobile Website",
+    "description": "YouTube Mobile gets a kick start! The new YouTube mobile website (m.youtube.com) offers a number of enhancements including: - It's really fast. - The new user ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GGT8ZCTBoBA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GGT8ZCTBoBA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GGT8ZCTBoBA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/SV-0g4v_ECLMw9blBUtsDKrLr2Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nySZH0tcL9I"
+   },
+   "snippet": {
+    "publishedAt": "2016-01-12T00:14:52.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Announcing the YouTube Interview With President Obama",
+    "description": "Watch the interview live at 2:15 p.m. ET, Friday, January 15, on the official White House YouTube channel: https://www.youtube.com/user/whitehouse This Friday ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nySZH0tcL9I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nySZH0tcL9I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nySZH0tcL9I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/PwOcZlkUf-Kyp1ZIg8cuTDoWcaU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2IuXzs13BmU"
+   },
+   "snippet": {
+    "publishedAt": "2010-02-03T23:43:20.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Creating Playlists",
+    "description": "What are playlists, and how do you create, organize and share them? This video reveals all. Made by http://www.youtube.com/rockyourwhirled.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2IuXzs13BmU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/rMsMldCdXUFbX1iqysmRFOfI420\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uglK8f2OPBk"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-04T06:48:38.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Lindsey Stirling - 'Crystallize' - Live at the YouTube Music Awards (YTMA)",
+    "description": "Lindsey Stirling performs \"Crystallize\" live at the YouTube Music Awards. Created by Ray Tintori. Live Show Director John Gonzalez. Presented by Kia.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uglK8f2OPBk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uglK8f2OPBk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uglK8f2OPBk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/2WnpmxbQsNTiREULw8x7vl12ikA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m4cQF8gWYCI"
+   },
+   "snippet": {
+    "publishedAt": "2014-05-29T07:08:04.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Birthday Karaoke Night (Behind the Scenes)",
+    "description": "Behind the scenes from the epic mashup of memorable musical moments from the past nine years on YouTube. WATCH IT AGAIN: http://youtu.be/7vuKF0BpyDA ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m4cQF8gWYCI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m4cQF8gWYCI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m4cQF8gWYCI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/R-PuNipBX6niRtf9unpq6eJgTZg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PDxbb6uab5Q"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-26T01:23:49.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Comedy Week - Saturday Rundown (#6 of 6)",
+    "description": "START HERE: http://goo.gl/OAhFa Saturday's Comedy Week highlights with Grace Helbig, a.k.a. Daily Grace! WATCH SATURDAY'S HIGHLIGHTS: All Top ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PDxbb6uab5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PDxbb6uab5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PDxbb6uab5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/Y9DTUKBtkwGW69tMrZu7st9zTLE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0aRIlnQzw-A"
+   },
+   "snippet": {
+    "publishedAt": "2010-02-09T23:35:51.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Subscriptions",
+    "description": "What are subscriptions and how do they work? Cuddles explains. Made by http://www.youtube.com/mondominishows.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0aRIlnQzw-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/yiZNkDYHB-jIVRiRda6Ddl3CLUc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nzdD6qnczDo"
+   },
+   "snippet": {
+    "publishedAt": "2011-09-14T04:51:51.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "The YouTube Creator Playbook",
+    "description": "The YouTube Creator Playbook is a new resource that compiles important tips, best practices, and strategies to build greater audiences on YouTube. Check it ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nzdD6qnczDo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nzdD6qnczDo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nzdD6qnczDo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/WlFTvg6L8zf6H6EG8rAvhBwpM2Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vviwsBQMOvs"
+   },
+   "snippet": {
+    "publishedAt": "2013-08-05T05:20:35.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Global Geekery Monday Highlights with Chester See (YouTube Geek Week)",
+    "description": "Explore geek culture from around the world, hosted by Chester See from YOMYOMF. Watch the playlist: http://goo.gl/dskOeF SUBSCRIBE to get YouTube Geek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vviwsBQMOvs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vviwsBQMOvs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vviwsBQMOvs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/d_Cq2V8_VeyXHGRTmfYfbXsYufA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9ckE_S5Y5QM"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-01T04:02:28.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Announcing the first-ever YouTube Music Awards",
+    "description": "Get ready to start voting on October 21, then tune in on November 3 to watch the first-ever YouTube Music Awards. We're launching a new music awards ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9ckE_S5Y5QM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/227diKcWor_6fOFA2GDwn5uEv9s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sT-n9QgvKv0"
+   },
+   "snippet": {
+    "publishedAt": "2013-11-06T02:32:13.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Macklemore & Ryan Lewis Win YouTube Breakthrough - Live at the YTMAs",
+    "description": "Macklemore and Ryan Lewis get handed the YouTube Breakthrough Award, and Jason Schwartzman and Reggie Watts get handed two babies by Rashida ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sT-n9QgvKv0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sT-n9QgvKv0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sT-n9QgvKv0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ctS5pqXc1cd04GYEnPvapMe0elU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7VN131tLEBc"
+   },
+   "snippet": {
+    "publishedAt": "2010-06-04T01:02:22.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Answers: Partnerships",
+    "description": "YouTube is a big place, but we're trying to make it feel a little bit smaller. That's why in April, we announced a new initiative in which you submit questions on a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7VN131tLEBc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/-LKTkASY9tJ_5oJ6Cp-46WznJaM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jXBsLtgWg_g"
+   },
+   "snippet": {
+    "publishedAt": "2013-08-03T01:49:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube and Spike Jonze want to hear about your year in music.",
+    "description": "YouTube and Spike Jonze are working on something big about music, and we want to know what your favorite songs, videos and artists of 2013 are. Here's how ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jXBsLtgWg_g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jXBsLtgWg_g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jXBsLtgWg_g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/MAEWAKFU4nWQWAHtKNwzTSSYF6w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BiuEOSQU-WU"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-01T07:25:26.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "When a Silverback Attacks in SnoopaVision",
+    "description": "Learn more about SnoopaVision: https://youtu.be/DPEJB-FCItk Welcome to SnoopaVision, a fully immersive experience that lets you watch any video on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BiuEOSQU-WU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/KxMgJoMQBkCs88Fb9tWIBdpJu6M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2Awf-P1THUg"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-18T15:27:17.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "\"Naked\" - YouTube Comedy Week - Join in May 19-25",
+    "description": "Comedy Week gets off to an awkward start when Dan meets David Mitchell for the first time. Join in now for YouTube Comedy Week http://yt.be/comedyweek ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2Awf-P1THUg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/lbaF_YObi1JFjFp-i6huwgma-4Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l0sOzdXce6o"
+   },
+   "snippet": {
+    "publishedAt": "2012-12-17T19:29:31.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Capture",
+    "description": "New! Capture and share videos instantly with YouTube Capture. More at http://youtube.com/capture.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l0sOzdXce6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l0sOzdXce6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l0sOzdXce6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/QRE712FHhQqRfpuijQz9fE87C10\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SzSwnbxb9TY"
+   },
+   "snippet": {
+    "publishedAt": "2010-01-12T02:11:12.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: How to Upload",
+    "description": "Uploading a video to YouTube is as easy as apple pie. Here's a quick overview. Made by http://www.youtube.com/antfarmhollywood.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SzSwnbxb9TY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SzSwnbxb9TY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SzSwnbxb9TY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/EE7zHE6OKZz_z7rd4-p_1tkPuo8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Pale4LRTrcA"
+   },
+   "snippet": {
+    "publishedAt": "2009-11-11T18:24:13.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Working @ Youtube: We're hiring!",
+    "description": "This video offers a peek into what it's like to work for YouTube. If you have want to have fun working on innovative web applications and you have a love for ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pale4LRTrcA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pale4LRTrcA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pale4LRTrcA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/ZPdeu4w7g4jMZZzUx1RVBcylBH4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QCVxQ_3Ejkg"
+   },
+   "snippet": {
+    "publishedAt": "2006-10-10T03:12:39.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "A Message From Chad and Steve",
+    "description": "The YouTube founders talk about the Google acquisition.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QCVxQ_3Ejkg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QCVxQ_3Ejkg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QCVxQ_3Ejkg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/QO5Y9w283HFijcsbebyTHaJUNNI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "awU8M3qVgZQ"
+   },
+   "snippet": {
+    "publishedAt": "2015-01-15T17:00:01.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Announcing The YouTube Interview with President Obama",
+    "description": "Watch the interview: http://youtu.be/GbR6iQ62v9k YouTube creators Bethany Mota, GloZell and Hank Green interview President Obama about the top concerns ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/awU8M3qVgZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/zX7rrN-RCq8JN25XvjwEDJb-VCo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aFBXYHnxH4w"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-01T18:01:34.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Celebrating the artists, activists and creators of today | Keep Making History",
+    "description": "February is over, but black history isn't stopping. Black voices are making history everyday and shaping the future. Join us in celebrating the artists, activists and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aFBXYHnxH4w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/sF5c-04e9WQYFdC6hBlqpZMxht4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xoZV-BtJjXw"
+   },
+   "snippet": {
+    "publishedAt": "2010-03-01T19:46:16.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube 101: Sharing Videos",
+    "description": "New upload* This video has been re-uploaded due to a small glitch in the previous version. +++ You find a video you love. How do you share it on YouTube and ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xoZV-BtJjXw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xoZV-BtJjXw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xoZV-BtJjXw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/q28ex6yFZgc9WOQTJlaBLRUxfqk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UXvhH8XfTKI"
+   },
+   "snippet": {
+    "publishedAt": "2009-03-24T22:04:21.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Creating YouTube Videos with Your Mobile Phone",
+    "description": "If your phone has a camera with video capture, you can easily post videos to YouTube that you take with your mobile phone. Visit www.youtube.com/mobile to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UXvhH8XfTKI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UXvhH8XfTKI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UXvhH8XfTKI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/pefZ5H8_dUYybKbQawnl69l7mRo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0YUbYohGMOg"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-01T06:53:45.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Announces Upcoming Viral Video Trends #newtrends",
+    "description": "Here at YouTube HQ, we write, shoot, and upload all of the world's most popular viral videos. Here's a sneak peek at what you'll be watching in 2014. Clocking ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0YUbYohGMOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/yHimAt5jKiy1yn1QFMXL576-C-Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JlkDaMEiEQU"
+   },
+   "snippet": {
+    "publishedAt": "2011-03-31T17:56:43.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "Buggy Intruder",
+    "description": "A befuddled man has been hijinked into singing about the hooliganism he has witnessed with his very own eyes. See the top 5 viral films from 1911: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JlkDaMEiEQU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JlkDaMEiEQU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JlkDaMEiEQU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"zekp1FB4kTkkM-rWc1qIAAt-BWc/h9nYkuo1RqjV8i5VV1F0DwLLZ_4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "a7aqFB7lQbQ"
+   },
+   "snippet": {
+    "publishedAt": "2011-07-15T05:52:24.000Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube Presents Jesse Eisenberg and Aziz Ansari",
+    "description": "YouTube Partner Ethan Newberry hosts Jesse Eisenberg and Aziz Ansari, stars of the movie 30 Minutes or Less at the YouTube headquarters to talk about their ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a7aqFB7lQbQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "YouTube Spotlight",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
