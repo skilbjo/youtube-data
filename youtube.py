@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import json
-import petl
 from pprint import pprint
 from os import listdir
 from os.path import isfile, join
@@ -34,7 +33,10 @@ def transform(data,dataset):
 			'favorites': record['statistics']['favoriteCount'],
 			'likes': record['statistics']['likeCount'],
 			'dislikes': record['statistics']['dislikeCount'],				
-			'views': record['statistics']['viewCount']
+			'views': record['statistics']['viewCount'],
+			'publishedAt': record['snippet']['publishedAt'],
+			'channelId': record['snippet']['channelId'],
+			'title': record['snippet']['title']
 		})
 	return result
 
@@ -44,9 +46,19 @@ def transform_metadata(data,dataset):
 		# result.append(record)
 		result.append({
 			'video_id': record['id']['videoId'],
-			'title': record['snippet']['title']
+			'title': record['snippet']['title'],
+			'publishedAt': record['snippet']['publishedAt'],
+			'channelId': record['snippet']['description'],
+			'channelTitle': record['snippet']['channelTitle']
 			})
 	return result	
+
+def load(data):
+	import psycopg2
+	# conn = psycopg2.connect()
+	# conn.autocommit = True
+	# insert data
+	# conn.close
 
 def main():
 	metadata_files = files_in_dir(data['dir']+data['metadata'])
@@ -65,7 +77,7 @@ def main():
 	pprint(metadata)
 
 	## After happy with how the transform looks, pass day1, day2, and metadata variables 
-	## to your load() function that will handle the postgres inserts. You can delete the PETL library as we didn`t need/use.
+	## to your load() function that will handle the postgres inserts. 
 	## load(day1)
 	## load(day2)
 	## load(metadata)
@@ -77,10 +89,5 @@ if __name__ == '__main__':
 
 
 
-def load(data):
-	import psycopg2
-	# conn = psycopg2.connect()
-	# conn.autocommit = True
-	# insert data
-	# conn.close
+
 
